@@ -1,0 +1,5739 @@
+[
+  {
+    "id": "honda-11",
+    "name": "Blade 110 2023",
+    "brand": "Honda",
+    "type": "Xe số",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-11",
+    "versions": [
+      "Tiêu chuẩn (Phanh cơ, vành nan hoa)",
+      "Tiêu chuẩn (Phanh đĩa, vành nan hoa)",
+      "Thể thao (Phanh đĩa, vành đúc)"
+    ],
+    "specs": {
+      "cooling_system": "Làm mát bằng không khí",
+      "displacement": "110",
+      "engine_type": "Xăng, 4 kỳ, 1 xi-lanh",
+      "fuel_consumption": "1,85",
+      "tank_capacity": "3,7",
+      "tire_rear": "80/90 - 17 M/C 50P",
+      "tire_front": "70/90 -17 M/C 38P"
+    }
+  },
+  {
+    "id": "honda-12",
+    "name": "Wave Alpha 110 2023",
+    "brand": "Honda",
+    "type": "Xe số",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual",
+      "air_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-12",
+    "versions": [
+      "Tiêu chuẩn",
+      "Đặc biệt",
+      "Cổ điển"
+    ],
+    "specs": {
+      "engine_type": "4 kỳ, 1 xi-lanh",
+      "displacement": "109,2",
+      "cooling_system": "Không khí (gió cưỡng bức)",
+      "tank_capacity": "3,7",
+      "fuel_consumption": "1,72",
+      "tire_front": "70/90-17M/C 38P",
+      "tire_rear": "80/90-17M/C 50P"
+    }
+  },
+  {
+    "id": "honda-13",
+    "name": "Wave RSX FI 110 2023",
+    "brand": "Honda",
+    "type": "Xe số",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-13",
+    "versions": [
+      "Phanh cơ/vành nan",
+      "Tiêu chuẩn",
+      "Phanh đĩa/vành nan",
+      "Đặc biệt",
+      "Phanh đĩa/vành đúc",
+      "Thể thao"
+    ],
+    "specs": {
+      "engine_type": "Xăng, 4 kỳ, 1 xi-lanh, FI",
+      "displacement": "110",
+      "cooling_system": "Làm mát bằng không khí",
+      "tank_capacity": "4",
+      "fuel_consumption": "1,56",
+      "tire_rear": "80/90 - 17 M/C 50P",
+      "tire_front": "70/90 -17 M/C 38P"
+    }
+  },
+  {
+    "id": "honda-14",
+    "name": "Future 125 FI 2024",
+    "brand": "Honda",
+    "type": "Xe số",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-14",
+    "versions": [
+      "Tiêu chuẩn",
+      "Tiêu chuẩn (Phanh đĩa - vành nan hoa)",
+      "Cao cấp",
+      "Cao cấp (Phanh đĩa - vành đúc)",
+      "Đặc biệt",
+      "Đặc biệt (Phanh đĩa - vành đúc)"
+    ],
+    "specs": {
+      "engine_type": "Xăng, 4 kỳ, 1 xi-lanh, FI",
+      "cooling_system": "Làm mát bằng không khí",
+      "displacement": "125",
+      "fuel_consumption": "1,54",
+      "tank_capacity": "4,6",
+      "tire_front": "70/90 -17 M/C 38P",
+      "tire_rear": "80/90 - 17 M/C 50P"
+    }
+  },
+  {
+    "id": "honda-15",
+    "name": "Super Cub C125 2023",
+    "brand": "Honda",
+    "type": "Xe số",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-15",
+    "versions": [
+      "Tiêu chuẩn",
+      "Đặc biệt"
+    ],
+    "specs": {
+      "displacement": "125",
+      "engine_type": "Xăng, 4 kỳ, 1 xi-lanh, FI",
+      "cooling_system": "Làm mát bằng không khí",
+      "fuel_consumption": "1,5",
+      "tank_capacity": "3,7",
+      "tire_rear": "80/90 - 17 M/C 50P",
+      "tire_front": "70/90 -17 M/C 38P"
+    }
+  },
+  {
+    "id": "honda-16",
+    "name": "Vision 2023",
+    "brand": "Honda",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-16",
+    "versions": [
+      "Tiêu chuẩn",
+      "Cao cấp",
+      "Đặc biệt",
+      "Cổ điển",
+      "Thể thao"
+    ],
+    "specs": {
+      "engine_type": "Xăng, 4 kỳ, 1 xi-lanh, FI",
+      "displacement": "109,5",
+      "cooling_system": "Làm mát bằng không khí",
+      "fuel_consumption": "1,82",
+      "tank_capacity": "4,8",
+      "tire_front": "80/90-14",
+      "tire_rear": "90/90-14"
+    }
+  },
+  {
+    "id": "honda-17",
+    "name": "Lead 2025",
+    "brand": "Honda",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-17",
+    "versions": [
+      "Tiêu chuẩn",
+      "Cao cấp",
+      "Đặc biệt",
+      "Đặc biệt (ABS)"
+    ],
+    "specs": {
+      "cooling_system": "Chất lỏng",
+      "displacement": "124,8",
+      "engine_type": "Xăng, 4 kỳ",
+      "fuel_consumption": "2,1",
+      "tank_capacity": "6",
+      "tire_rear": "100/90-10 56J",
+      "tire_front": "90/90-12 44JJ"
+    }
+  },
+  {
+    "id": "honda-18",
+    "name": "Air Blade 2025",
+    "brand": "Honda",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-18",
+    "versions": [
+      "125 Tiêu chuẩn",
+      "125 Đặc biệt",
+      "160 Tiêu chuẩn",
+      "160 Đặc biệt",
+      "160 Đặc biệt (clone)"
+    ],
+    "specs": {
+      "displacement": "125",
+      "engine_type": "Xăng, 4 kỳ",
+      "cooling_system": "Chất lỏng",
+      "fuel_consumption": "2,26",
+      "tank_capacity": "4,4",
+      "tire_rear": "90/90",
+      "tire_front": "80/90"
+    }
+  },
+  {
+    "id": "honda-19",
+    "name": "Vario 160 2023",
+    "brand": "Honda",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-19",
+    "versions": [
+      "Tiêu chuẩn",
+      "Cao cấp",
+      "Đặc biệt",
+      "Thể thao"
+    ],
+    "specs": {
+      "displacement": "156,9",
+      "engine_type": "Xăng, 4 kỳ",
+      "cooling_system": "Chất lỏng",
+      "fuel_consumption": "2,2",
+      "tank_capacity": "5,5",
+      "tire_rear": "120/70-14",
+      "tire_front": "100/80-14"
+    }
+  },
+  {
+    "id": "honda-20",
+    "name": "SH Mode 2023",
+    "brand": "Honda",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-20",
+    "versions": [
+      "Tiêu chuẩn",
+      "Cao cấp",
+      "Đặc biệt",
+      "Thể thao"
+    ],
+    "specs": {
+      "displacement": "125",
+      "engine_type": "Xăng, 4 kỳ",
+      "cooling_system": "Chất lỏng",
+      "fuel_consumption": "2,16",
+      "tank_capacity": "5,6",
+      "tire_rear": "100/90-14",
+      "tire_front": "80/90-16"
+    }
+  },
+  {
+    "id": "honda-21",
+    "name": "SH 125i/160i 2023",
+    "brand": "Honda",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-21",
+    "versions": [
+      "125i Tiêu chuẩn",
+      "125i Cao cấp",
+      "125i Đặc biệt",
+      "125i Thể thao",
+      "160i Tiêu chuẩn",
+      "160i Cao cấp",
+      "160i Đặc biệt",
+      "160i Thể thao"
+    ],
+    "specs": {
+      "displacement": "125",
+      "engine_type": "Xăng, 4 kỳ",
+      "cooling_system": "Chất lỏng",
+      "fuel_consumption": "2,46",
+      "tank_capacity": "7,8",
+      "tire_rear": "120/80-16",
+      "tire_front": "100/80-16"
+    }
+  },
+  {
+    "id": "honda-22",
+    "name": "SH 350i 2023",
+    "brand": "Honda",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-22",
+    "versions": [
+      "Cao cấp",
+      "Đặc biệt",
+      "Thể thao"
+    ],
+    "specs": {
+      "engine_type": "Xăng, 4 kỳ",
+      "displacement": "330",
+      "cooling_system": "Chất lỏng",
+      "tank_capacity": "9,3",
+      "fuel_consumption": "3,52",
+      "tire_front": "110/70-16 M/C 52S",
+      "tire_rear": "130/70R16 M/C 61S"
+    }
+  },
+  {
+    "id": "honda-23",
+    "name": "Winner X 2023",
+    "brand": "Honda",
+    "type": "Xe côn tay",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual",
+      "chain_drive",
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-23",
+    "versions": [
+      "Tiêu chuẩn",
+      "Đặc biệt",
+      "Thể thao"
+    ],
+    "specs": {
+      "displacement": "149,1",
+      "engine_type": "Xăng, 4 kỳ",
+      "cooling_system": "Chất lỏng",
+      "fuel_consumption": "1,99",
+      "tank_capacity": "4,5",
+      "tire_rear": "120/70-17",
+      "tire_front": "90/80-17"
+    }
+  },
+  {
+    "id": "honda-24",
+    "name": "CB150R 2023",
+    "brand": "Honda",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-24",
+    "versions": [
+      "The Streetster"
+    ],
+    "specs": {
+      "displacement": "149,2",
+      "cooling_system": "Chất lỏng",
+      "engine_type": "Xăng, 4 kỳ",
+      "tank_capacity": "8,5",
+      "fuel_consumption": "2,79",
+      "tire_rear": "150/60R17",
+      "tire_front": "110/70R17"
+    }
+  },
+  {
+    "id": "honda-25",
+    "name": "CBR150R 2023",
+    "brand": "Honda",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-25",
+    "versions": [
+      "Tiêu chuẩn",
+      "Đặc biệt",
+      "Thể thao"
+    ],
+    "specs": {
+      "cooling_system": "Chất lỏng",
+      "displacement": "149,2",
+      "engine_type": "Xăng, 4 kỳ",
+      "fuel_consumption": "2,91",
+      "tank_capacity": "12",
+      "tire_rear": "130/70-17",
+      "tire_front": "100/80-17"
+    }
+  },
+  {
+    "id": "honda-26",
+    "name": "CBR500R 2023",
+    "brand": "Honda",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-26",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "471",
+      "engine_type": "4 kỳ, 2 xy lanh",
+      "cooling_system": "Dung dịch",
+      "fuel_consumption": "3,59",
+      "tank_capacity": "17,1",
+      "tire_front": "120/70 ZR17",
+      "tire_rear": "160/60 ZR17"
+    }
+  },
+  {
+    "id": "honda-27",
+    "name": "CB500X 2023",
+    "brand": "Honda",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-27",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "471",
+      "cooling_system": "Chất lỏng",
+      "engine_type": "4 kỳ, 2 xy lanh",
+      "tank_capacity": "17,5",
+      "fuel_consumption": "3,59",
+      "tire_rear": "160/60R17",
+      "tire_front": "110/80R19"
+    }
+  },
+  {
+    "id": "honda-28",
+    "name": "CB500F 2023",
+    "brand": "Honda",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-28",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "471",
+      "cooling_system": "Chất lỏng",
+      "engine_type": "4 kỳ, 2 xy lanh",
+      "tank_capacity": "17,1",
+      "fuel_consumption": "3,59",
+      "tire_rear": "160/60R17",
+      "tire_front": "110/80R19"
+    }
+  },
+  {
+    "id": "honda-29",
+    "name": "CB650R 2023",
+    "brand": "Honda",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-29",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "engine_type": "4 kỳ, 4 xy lanh",
+      "displacement": "649",
+      "cooling_system": "Chất lỏng",
+      "fuel_consumption": "4,95",
+      "tank_capacity": "15,4",
+      "tire_front": "120/70Z R17",
+      "tire_rear": "180/55Z R17"
+    }
+  },
+  {
+    "id": "honda-30",
+    "name": "CBR650R 2023",
+    "brand": "Honda",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-30",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "cooling_system": "Chất lỏng",
+      "displacement": "649",
+      "engine_type": "4 kỳ, 4 xy lanh",
+      "fuel_consumption": "4,95",
+      "tank_capacity": "15,4",
+      "tire_rear": "180/55Z R17",
+      "tire_front": "120/70 ZR17"
+    }
+  },
+  {
+    "id": "honda-31",
+    "name": "Rebel 500 2023",
+    "brand": "Honda",
+    "type": "Cruiser",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-31",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "471",
+      "engine_type": "4 kỳ, 2 xy lanh",
+      "cooling_system": "Chất lỏng",
+      "tank_capacity": "11,2",
+      "fuel_consumption": "3,42",
+      "tire_rear": "150/80-16",
+      "tire_front": "130/90-16"
+    }
+  },
+  {
+    "id": "honda-32",
+    "name": "Rebel 1100 2023",
+    "brand": "Honda",
+    "type": "Cruiser",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-32",
+    "versions": [
+      "Tiêu chuẩn",
+      "DCT"
+    ],
+    "specs": {
+      "displacement": "1.084",
+      "cooling_system": "Chất lỏng",
+      "engine_type": "4 kỳ, 2 xy lanh",
+      "tank_capacity": "13,6",
+      "fuel_consumption": "5,3",
+      "tire_rear": "180/65B16",
+      "tire_front": "130/70B18"
+    }
+  },
+  {
+    "id": "honda-34",
+    "name": "CB1000R 2023",
+    "brand": "Honda",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-34",
+    "versions": [
+      "Tiêu chuẩn",
+      "Black Edition"
+    ],
+    "specs": {
+      "displacement": "998",
+      "cooling_system": "Chất lỏng",
+      "engine_type": "4 kỳ, 4 xy lanh",
+      "tank_capacity": "16,2",
+      "fuel_consumption": "5,95",
+      "tire_rear": "190/55ZR17",
+      "tire_front": "120/70ZR17"
+    }
+  },
+  {
+    "id": "honda-35",
+    "name": "CBR1000RR-R Fireblade 2023",
+    "brand": "Honda",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-35",
+    "versions": [
+      "Tiêu chuẩn",
+      "SP"
+    ],
+    "specs": {
+      "displacement": "1",
+      "cooling_system": "Chất lỏng",
+      "engine_type": "4 kỳ, 4 xy lanh thẳng hàng",
+      "tank_capacity": "16,1",
+      "fuel_consumption": "6,3",
+      "tire_rear": "200/55-ZR17",
+      "tire_front": "120/70-ZR17"
+    }
+  },
+  {
+    "id": "honda-37",
+    "name": "Africa Twin 2024",
+    "brand": "Honda",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-37",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {}
+  },
+  {
+    "id": "honda-38",
+    "name": "Africa Twin Adventure Sports 2024",
+    "brand": "Honda",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-38",
+    "versions": [
+      "Adventure Sports"
+    ],
+    "specs": {}
+  },
+  {
+    "id": "honda-39",
+    "name": "Gold Wing 2023",
+    "brand": "Honda",
+    "type": "Touring",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-39",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {}
+  },
+  {
+    "id": "honda-1027",
+    "name": "XL750 Transalp 2023",
+    "brand": "Honda",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-1027",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {}
+  },
+  {
+    "id": "honda-1028",
+    "name": "Vario 125 2025",
+    "brand": "Honda",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-1028",
+    "versions": [
+      "Đặc biệt",
+      "Thể thao"
+    ],
+    "specs": {
+      "engine_type": "Xăng, 4 kỳ",
+      "displacement": "125",
+      "cooling_system": "Chất lỏng",
+      "tank_capacity": "5,5",
+      "fuel_consumption": "2,16",
+      "tire_front": "90/80-14",
+      "tire_rear": "100/80-14"
+    }
+  },
+  {
+    "id": "honda-1031",
+    "name": "CB350 H'ness 2024",
+    "brand": "Honda",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-1031",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "engine_type": "4 kỳ, 1 xi lanh",
+      "displacement": "348",
+      "cooling_system": "Không khí",
+      "tank_capacity": "15",
+      "tire_front": "100/90 R19",
+      "tire_rear": "130/70 R18"
+    }
+  },
+  {
+    "id": "honda-1043",
+    "name": "CB500 Hornet 2024",
+    "brand": "Honda",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-1043",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "engine_type": "4 kỳ, 2 xi lanh",
+      "displacement": "471",
+      "cooling_system": "Dung dịch",
+      "tank_capacity": "17,1",
+      "fuel_consumption": "3,59",
+      "tire_front": "120/70 ZR17",
+      "tire_rear": "160/60 ZR17"
+    }
+  },
+  {
+    "id": "honda-1044",
+    "name": "NX500 2024",
+    "brand": "Honda",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-1044",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "engine_type": "4 kỳ, 2 xi lanh",
+      "displacement": "471",
+      "cooling_system": "Dung dịch",
+      "tank_capacity": "17,7",
+      "fuel_consumption": "3,74",
+      "tire_front": "110/80 R19",
+      "tire_rear": "160/60 R17"
+    }
+  },
+  {
+    "id": "honda-1046",
+    "name": "ICON e: 2025",
+    "brand": "Honda",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-1046",
+    "versions": [
+      "Cao cấp",
+      "Đặc biệt",
+      "Thể thao"
+    ],
+    "specs": {
+      "engine_type": "Môtơ điện",
+      "tire_front": "90/90-12 44J",
+      "tire_rear": "100/90-10 56J"
+    }
+  },
+  {
+    "id": "honda-1047",
+    "name": "CL500 2025",
+    "brand": "Honda",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-1047",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "engine_type": "4 kỳ, 2 xi lanh song song",
+      "cooling_system": "Chất lỏng",
+      "displacement": "471",
+      "tank_capacity": "12,2",
+      "fuel_consumption": "3,42",
+      "tire_front": "110/80R19",
+      "tire_rear": "150/70R17"
+    }
+  },
+  {
+    "id": "honda-1048",
+    "name": "CB1000 Hornet 2025",
+    "brand": "Honda",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-1048",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "998",
+      "engine_type": "4 kỳ, 4 xy lanh thẳng hàng",
+      "cooling_system": "Chất lỏng",
+      "tank_capacity": "17",
+      "tire_front": "120/70Z R17",
+      "tire_rear": "180/55Z R17"
+    }
+  },
+  {
+    "id": "honda-1058",
+    "name": "Winner R 2026",
+    "brand": "Honda",
+    "type": "Xe côn tay",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual",
+      "chain_drive",
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-1058",
+    "versions": [
+      "Tiêu chuẩn",
+      "Đặc biệt",
+      "Thể thao"
+    ],
+    "specs": {
+      "engine_type": "Xăng, 4 kỳ",
+      "cooling_system": "Chất lỏng",
+      "displacement": "149,2",
+      "tank_capacity": "4,5",
+      "fuel_consumption": "2,59",
+      "tire_front": "90/80-17",
+      "tire_rear": "120/70-17"
+    }
+  },
+  {
+    "id": "honda-1059",
+    "name": "ADV 350 2025",
+    "brand": "Honda",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-1059",
+    "versions": [
+      "RoadSync"
+    ],
+    "specs": {
+      "engine_type": "4 kỳ, 1 xi lanh, làm mát bằng chất lỏng",
+      "displacement": "329,57",
+      "cooling_system": "Chất lỏng",
+      "tank_capacity": "11,7",
+      "fuel_consumption": "3,68",
+      "tire_front": "120/70-15M/C 56P",
+      "tire_rear": "140/70-14M/C 62P"
+    }
+  },
+  {
+    "id": "honda-1061",
+    "name": "CT125 2025",
+    "brand": "Honda",
+    "type": "Xe số",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/honda-1061",
+    "versions": [
+      "ABS"
+    ],
+    "specs": {
+      "engine_type": "4 kỳ, 1 xi-lanh",
+      "displacement": "123,9",
+      "cooling_system": "Không khí",
+      "tank_capacity": "5,4",
+      "fuel_consumption": "1,61",
+      "tire_front": "80/90 - 17M/C 44P",
+      "tire_rear": "80/90 - 17M/C 50P"
+    }
+  },
+  {
+    "id": "vinfast-207",
+    "name": "Evo200 2023",
+    "brand": "VinFast",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/vinfast-207",
+    "versions": [
+      "Chưa gồm pin",
+      "Mua pin"
+    ],
+    "specs": {
+      "displacement": "",
+      "cooling_system": "",
+      "engine_type": "Một chiều không chổi than​, Inhub",
+      "tank_capacity": "",
+      "fuel_consumption": "",
+      "tire_rear": "90/90-12",
+      "tire_front": "90/90-12"
+    }
+  },
+  {
+    "id": "vinfast-209",
+    "name": "Klara S 2023",
+    "brand": "VinFast",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/vinfast-209",
+    "versions": [
+      "Thuê pin",
+      "Mua pin"
+    ],
+    "specs": {
+      "displacement": "",
+      "cooling_system": "",
+      "engine_type": "Một chiều không chổi than​. Động cơ Bosch",
+      "tank_capacity": "",
+      "fuel_consumption": "",
+      "tire_rear": "120/70 - 12",
+      "tire_front": "90/90 - 14"
+    }
+  },
+  {
+    "id": "vinfast-211",
+    "name": "Feliz S 2023",
+    "brand": "VinFast",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/vinfast-211",
+    "versions": [
+      "Thuê pin",
+      "Mua pin"
+    ],
+    "specs": {
+      "displacement": "",
+      "cooling_system": "",
+      "engine_type": "Inhub",
+      "tank_capacity": "",
+      "fuel_consumption": "",
+      "tire_rear": "120/70 - 14",
+      "tire_front": "90/90 - 14"
+    }
+  },
+  {
+    "id": "vinfast-213",
+    "name": "Vento S 2023",
+    "brand": "VinFast",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/vinfast-213",
+    "versions": [
+      "Thuê pin",
+      "Mua pin"
+    ],
+    "specs": {
+      "displacement": "",
+      "cooling_system": "",
+      "engine_type": "Side Motor. IPM",
+      "tank_capacity": "",
+      "fuel_consumption": "",
+      "tire_rear": "120/70-12",
+      "tire_front": "90/90-12"
+    }
+  },
+  {
+    "id": "vinfast-215",
+    "name": "Theon S 2023",
+    "brand": "VinFast",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/vinfast-215",
+    "versions": [
+      "Thuê pin",
+      "Mua pin"
+    ],
+    "specs": {
+      "displacement": "",
+      "cooling_system": "",
+      "engine_type": "Mô tơ điện đặt giữa. Truyền động bằng dây xích",
+      "tank_capacity": "",
+      "fuel_consumption": "",
+      "tire_rear": "120/80-16",
+      "tire_front": "100/80-16"
+    }
+  },
+  {
+    "id": "vinfast-1017",
+    "name": "Feliz 2025",
+    "brand": "VinFast",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/vinfast-1017",
+    "versions": [
+      "2 pin"
+    ],
+    "specs": {
+      "engine_type": "BLDC Inhub",
+      "tire_front": "90/90 - 14",
+      "tire_rear": "120/70 - 14"
+    }
+  },
+  {
+    "id": "vinfast-1032",
+    "name": "Evo200 Lite 2023",
+    "brand": "VinFast",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/vinfast-1032",
+    "versions": [
+      "Chưa gồm pin",
+      "Mua pin"
+    ],
+    "specs": {
+      "displacement": "",
+      "engine_type": "Một chiều không chổi than​ Inhub",
+      "cooling_system": "",
+      "fuel_consumption": "",
+      "tank_capacity": "",
+      "tire_rear": "90/90-12",
+      "tire_front": "90/90-12"
+    }
+  },
+  {
+    "id": "vinfast-1055",
+    "name": "Evo Grand 2025",
+    "brand": "VinFast",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/vinfast-1055",
+    "versions": [
+      "Tiêu chuẩn (1 pin và 1 bộ sạc)"
+    ],
+    "specs": {
+      "engine_type": "Inhub",
+      "tire_front": "90/90-12",
+      "tire_rear": "90/90-12"
+    }
+  },
+  {
+    "id": "vinfast-1056",
+    "name": "Evo Grand Lite 2025",
+    "brand": "VinFast",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/vinfast-1056",
+    "versions": [
+      "Tiêu chuẩn (1 pin và 1 bộ sạc)"
+    ],
+    "specs": {
+      "engine_type": "Inhub",
+      "tire_front": "90/90-12",
+      "tire_rear": "90/90-12"
+    }
+  },
+  {
+    "id": "vinfast-1062",
+    "name": "ZGoo 2025",
+    "brand": "VinFast",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/vinfast-1062",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "engine_type": "Inhub"
+    }
+  },
+  {
+    "id": "vinfast-1063",
+    "name": "Flazz 2025",
+    "brand": "VinFast",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/vinfast-1063",
+    "versions": [
+      "2 pin"
+    ],
+    "specs": {
+      "engine_type": "Inhub"
+    }
+  },
+  {
+    "id": "vinfast-1064",
+    "name": "Vero X 2025",
+    "brand": "VinFast",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/vinfast-1064",
+    "versions": [
+      "2 pin"
+    ],
+    "specs": {
+      "tire_front": "90/90-12",
+      "tire_rear": "90/90-12"
+    }
+  },
+  {
+    "id": "suzuki-124",
+    "name": "Satria F150 FI 2023",
+    "brand": "Suzuki",
+    "type": "Xe côn tay",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual",
+      "chain_drive",
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/suzuki-124",
+    "versions": [
+      "Xanh-Bạc-Đen, Trắng-Đỏ-Đen, Đen-Đỏ",
+      "Đen-Trắng, Đen",
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "engine_type": "Xăng, 4 kỳ, 1 xi-lanh",
+      "displacement": "147,3",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "tank_capacity": "4",
+      "fuel_consumption": "2,56",
+      "tire_front": "70/90 -17",
+      "tire_rear": "80/90 -17"
+    }
+  },
+  {
+    "id": "suzuki-125",
+    "name": "Raider R150 2023",
+    "brand": "Suzuki",
+    "type": "Xe côn tay",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual",
+      "chain_drive",
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/suzuki-125",
+    "versions": [
+      "Đỏ - Đen, Xanh - Đen",
+      "Nâu - Đen, Xanh – Đen, Trắng – Đỏ - Đen",
+      "Đỏ - Đen, Xanh – Đen, Xám – Đen"
+    ],
+    "specs": {
+      "displacement": "147,3",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "Xăng, 4 kỳ, 1 xi-lanh",
+      "tank_capacity": "4",
+      "fuel_consumption": "2,4",
+      "tire_rear": "80/90 -17",
+      "tire_front": "70/90 -17"
+    }
+  },
+  {
+    "id": "suzuki-126",
+    "name": "Burgman Street 125 2023",
+    "brand": "Suzuki",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/suzuki-126",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "124,3",
+      "cooling_system": "Làm mát bằng không khí",
+      "engine_type": "Xăng, 4 kỳ, 1 xi-lanh",
+      "tank_capacity": "5,5",
+      "fuel_consumption": "1,96",
+      "tire_rear": "90/100 -10",
+      "tire_front": "90/90 -12"
+    }
+  },
+  {
+    "id": "suzuki-1033",
+    "name": "V-Strom 250SX 2023",
+    "brand": "Suzuki",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/suzuki-1033",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "engine_type": "Xăng, 4 kỳ, 1 xi lanh, làm mát bằng không khí",
+      "displacement": "249",
+      "cooling_system": "Không khí",
+      "tank_capacity": "12",
+      "tire_front": "100/90 - 19M/C 57S",
+      "tire_rear": "140/70 - 17M/C 66S"
+    }
+  },
+  {
+    "id": "yamaha-7",
+    "name": "Janus 2023",
+    "brand": "Yamaha",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-7",
+    "versions": [
+      "Tiêu chuẩn hoàn toàn mới",
+      "Tiêu chuẩn",
+      "Janus xe Điện",
+      "Đặc biệt hoàn toàn mới",
+      "Giới hạn hoàn toàn mới",
+      "Đặc biệt",
+      "Giới hạn"
+    ],
+    "specs": {
+      "engine_type": "Xăng 4 kỳ, làm mát bằng không khí",
+      "displacement": "124,9",
+      "cooling_system": "Không khí",
+      "tank_capacity": "4,2",
+      "fuel_consumption": "",
+      "tire_front": "80/80-14 M/C 43P (lốp không săm)",
+      "tire_rear": "100/70-14 M/C 51P (lốp không săm)"
+    }
+  },
+  {
+    "id": "yamaha-40",
+    "name": "Sirius 2023",
+    "brand": "Yamaha",
+    "type": "Xe số",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-40",
+    "versions": [
+      "Phanh cơ màu mới",
+      "Phanh đĩa màu mới",
+      "RC vành đúc màu mới"
+    ],
+    "specs": {
+      "displacement": "110,3",
+      "cooling_system": "Làm mát bằng không khí",
+      "engine_type": "Xăng, 4 kỳ, 1 xi-lanh",
+      "tank_capacity": "4,2",
+      "fuel_consumption": "2,08",
+      "tire_rear": "80/90 - 17",
+      "tire_front": "70/90 - 17"
+    }
+  },
+  {
+    "id": "yamaha-41",
+    "name": "Sirius FI 2023",
+    "brand": "Yamaha",
+    "type": "Xe số",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-41",
+    "versions": [
+      "Phanh cơ màu mới",
+      "Phanh đĩa màu mới",
+      "Vành đúc màu mới"
+    ],
+    "specs": {
+      "displacement": "113,7",
+      "cooling_system": "Làm mát bằng không khí",
+      "engine_type": "Xăng, 4 kỳ, 1 xi-lanh",
+      "tank_capacity": "4",
+      "fuel_consumption": "1,65",
+      "tire_rear": "80/90 - 17",
+      "tire_front": "70/90 - 17"
+    }
+  },
+  {
+    "id": "yamaha-42",
+    "name": "Jupiter Finn 2023",
+    "brand": "Yamaha",
+    "type": "Xe số",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-42",
+    "versions": [
+      "Tiêu chuẩn",
+      "Cao cấp"
+    ],
+    "specs": {
+      "displacement": "113,7",
+      "cooling_system": "Làm mát bằng không khí",
+      "engine_type": "Xăng, 4 kỳ, 1 xi-lanh",
+      "tank_capacity": "4",
+      "fuel_consumption": "1,64",
+      "tire_rear": "80/90 - 17",
+      "tire_front": "70/90 - 17"
+    }
+  },
+  {
+    "id": "yamaha-43",
+    "name": "Jupiter Fi 2023",
+    "brand": "Yamaha",
+    "type": "Xe số",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-43",
+    "versions": [
+      "Tiêu chuẩn",
+      "Giới hạn"
+    ],
+    "specs": {
+      "displacement": "114",
+      "cooling_system": "Làm mát bằng không khí",
+      "engine_type": "Xăng, 4 kỳ, 1 xi-lanh",
+      "tank_capacity": "4,1",
+      "fuel_consumption": "1,64",
+      "tire_rear": "80/90 - 17",
+      "tire_front": "70/90 - 17"
+    }
+  },
+  {
+    "id": "yamaha-44",
+    "name": "Exciter 150 2023",
+    "brand": "Yamaha",
+    "type": "Xe côn tay",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual",
+      "chain_drive",
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-44",
+    "versions": [
+      "150 RC",
+      "150 Giới hạn màu mới",
+      "150 Giới hạn"
+    ],
+    "specs": {
+      "displacement": "150",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "4 thì, 4 van, SOHC",
+      "tank_capacity": "4,2",
+      "fuel_consumption": "2",
+      "tire_rear": "120/70-17",
+      "tire_front": "90/80-17"
+    }
+  },
+  {
+    "id": "yamaha-45",
+    "name": "Exciter 155 VVA 2023",
+    "brand": "Yamaha",
+    "type": "Xe côn tay",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual",
+      "chain_drive",
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-45",
+    "versions": [
+      "155 VVA Tiêu chuẩn",
+      "155 VVA Tiêu chuẩn màu mới",
+      "155 VVA Cao cấp",
+      "155 VVA Cao cấp màu mới",
+      "155 VVA Giới hạn",
+      "155 VVA GP",
+      "155 VVA Monster Energy MotoGP",
+      "155 VVA Giới hạn màu mới",
+      "155 VVA Giới hạn Master Art of Street",
+      "155 VVA 60 năm Yamaha tranh tài MotoGP",
+      "155 VVA - ABS"
+    ],
+    "specs": {
+      "displacement": "155",
+      "engine_type": "4 thì, 4 van, SOHC",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "fuel_consumption": "2,09",
+      "tank_capacity": "5,4",
+      "tire_rear": "120/70-17",
+      "tire_front": "90/80-17"
+    }
+  },
+  {
+    "id": "yamaha-46",
+    "name": "Neo's 2023",
+    "brand": "Yamaha",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-46",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "",
+      "cooling_system": "",
+      "engine_type": "Điện",
+      "tank_capacity": "",
+      "fuel_consumption": "",
+      "tire_rear": "130/70-13",
+      "tire_front": "110/70-13"
+    }
+  },
+  {
+    "id": "yamaha-47",
+    "name": "Freego 2023",
+    "brand": "Yamaha",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-47",
+    "versions": [
+      "Tiêu chuẩn",
+      "Đặc biệt"
+    ],
+    "specs": {
+      "displacement": "125",
+      "cooling_system": "Làm mát bằng không khí cưỡng bức",
+      "engine_type": "4 thì, SOHC",
+      "tank_capacity": "4,2",
+      "fuel_consumption": "2,03",
+      "tire_rear": "110/90 – 12",
+      "tire_front": "100/90 – 12"
+    }
+  },
+  {
+    "id": "yamaha-48",
+    "name": "Latte 2023",
+    "brand": "Yamaha",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-48",
+    "versions": [
+      "Tiêu chuẩn",
+      "Giới hạn"
+    ],
+    "specs": {
+      "displacement": "125",
+      "cooling_system": "Làm mát bằng không khí cưỡng bức",
+      "engine_type": "4 thì, SOHC",
+      "tank_capacity": "5,5",
+      "fuel_consumption": "1,8",
+      "tire_rear": "110/90 – 10",
+      "tire_front": "90/90 – 12"
+    }
+  },
+  {
+    "id": "yamaha-50",
+    "name": "Grande 2023",
+    "brand": "Yamaha",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-50",
+    "versions": [
+      "Blue Core Hybrid Tiêu chuẩn",
+      "Tiêu chuẩn hoàn toàn mới",
+      "Blue Core Hybrid Đặc biệt",
+      "Blue Core Hybrid Giới hạn",
+      "Đặc biệt hoàn toàn mới",
+      "Giới hạn hoàn toàn mới"
+    ],
+    "specs": {
+      "displacement": "125",
+      "cooling_system": "Làm mát bằng không khí",
+      "engine_type": "SOHC, 4 kỳ, 2 van",
+      "tank_capacity": "4,4",
+      "fuel_consumption": "1,69",
+      "tire_rear": "110/70-12 47L (Lốp không săm)",
+      "tire_front": "110/70-12 47L (Lốp không săm)"
+    }
+  },
+  {
+    "id": "yamaha-51",
+    "name": "NVX 2023",
+    "brand": "Yamaha",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-51",
+    "versions": [
+      "Cao cấp 155 VVA",
+      "Cao cấp 155 VVA màu mới"
+    ],
+    "specs": {
+      "displacement": "155,1",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "engine_type": "4 thì, 4 van, SOHC",
+      "tank_capacity": "5,5",
+      "fuel_consumption": "2,19",
+      "tire_rear": "140/70-14M/C 62P (Lốp không săm)",
+      "tire_front": "110/80-14M/C 53P (Lốp không săm)"
+    }
+  },
+  {
+    "id": "yamaha-52",
+    "name": "XS155R 2023",
+    "brand": "Yamaha",
+    "type": "Xe côn tay",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual",
+      "chain_drive",
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-52",
+    "versions": [
+      "BPJ1"
+    ],
+    "specs": {
+      "displacement": "155",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "engine_type": "Động cơ 4 thì, SOHC, xy-lanh đơn 4 van",
+      "tank_capacity": "10L",
+      "fuel_consumption": "",
+      "tire_rear": "140/70-17 M/C 66S không săm",
+      "tire_front": "110/70-17 M/C 54S không săm"
+    }
+  },
+  {
+    "id": "yamaha-53",
+    "name": "MT-03 2023",
+    "brand": "Yamaha",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-53",
+    "versions": [
+      "B5W7"
+    ],
+    "specs": {
+      "displacement": "321",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "engine_type": "Động cơ 4 thì, 8 van, 2 xy lanh, DOHC",
+      "tank_capacity": "14L",
+      "fuel_consumption": "",
+      "tire_rear": "140/70-17M/C 66H (Lốp không săm)",
+      "tire_front": "110/70-17M/C 54H (Lốp không săm)"
+    }
+  },
+  {
+    "id": "yamaha-54",
+    "name": "MT-15 2023",
+    "brand": "Yamaha",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-54",
+    "versions": [
+      "B8D6"
+    ],
+    "specs": {
+      "displacement": "155",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "engine_type": "Động cơ 4 thì, 4 van, SOHC",
+      "tank_capacity": "10",
+      "fuel_consumption": "2,09",
+      "tire_rear": "140/70 - 17 M/C 66S (lốp không săm)",
+      "tire_front": "110/70 - 17 M/C 54S (lốp không săm)"
+    }
+  },
+  {
+    "id": "yamaha-55",
+    "name": "YZF-R15 2023",
+    "brand": "Yamaha",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-55",
+    "versions": [
+      "Tiêu chuẩn",
+      "Tiêu chuẩn hoàn toàn mới",
+      "M Hoàn toàn mới",
+      "M Giới hạn 60 năm Yamaha tranh tài MotoGP",
+      "M Monster Energy Yamaha MotoGP"
+    ],
+    "specs": {
+      "displacement": "155",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "engine_type": "4 thì, 4 van, SOHC",
+      "tank_capacity": "11",
+      "fuel_consumption": "2,02",
+      "tire_rear": "140/70-17M/C 66S (lốp không săm)",
+      "tire_front": "100/80-17M/C 52P (lốp không săm)"
+    }
+  },
+  {
+    "id": "yamaha-56",
+    "name": "YZF-R3 2023",
+    "brand": "Yamaha",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-56",
+    "versions": [
+      "B5LW"
+    ],
+    "specs": {
+      "displacement": "321",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "engine_type": "4 thì, 2 xy lanh, 8 van, DOHC",
+      "tank_capacity": "14",
+      "fuel_consumption": "3,62",
+      "tire_rear": "140/70-17M/C 66H (Lốp không săm)",
+      "tire_front": "110/70-17M/C 54H (Lốp không săm)"
+    }
+  },
+  {
+    "id": "yamaha-57",
+    "name": "MT-07 2023",
+    "brand": "Yamaha",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-57",
+    "versions": [
+      "689cc"
+    ],
+    "specs": {
+      "displacement": "689",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "engine_type": "2 xy lanh, DOHC, 4 thì",
+      "tank_capacity": "14",
+      "fuel_consumption": "4,2",
+      "tire_rear": "Lốp không xăm, 180/55 ZR 17M/C (73W)",
+      "tire_front": "Lốp không xăm, 120/70 ZR 17M/C (58W)"
+    }
+  },
+  {
+    "id": "yamaha-58",
+    "name": "MT-09 2023",
+    "brand": "Yamaha",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-58",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "890",
+      "cooling_system": "Dung dịch",
+      "engine_type": "Crossplane 3 xy lanh, DOHC, 4 thì",
+      "tank_capacity": "14",
+      "fuel_consumption": "5",
+      "tire_rear": "Lốp không xăm, 180/55 ZR17M / C (73W)",
+      "tire_front": "Lốp không xăm, 120/70 ZR17M / C (58W)"
+    }
+  },
+  {
+    "id": "yamaha-59",
+    "name": "MT-09 SP 2023",
+    "brand": "Yamaha",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-59",
+    "versions": [
+      "SP"
+    ],
+    "specs": {
+      "displacement": "890",
+      "cooling_system": "Dung dịch",
+      "engine_type": "Crossplane 3 xy lanh, DOHC, 4 thì",
+      "tank_capacity": "14",
+      "fuel_consumption": "5",
+      "tire_rear": "Lốp không xăm, 180/55 ZR17M / C (73W)",
+      "tire_front": "Lốp không xăm, 120/70 ZR17M / C (58W)"
+    }
+  },
+  {
+    "id": "yamaha-60",
+    "name": "MT-10 2023",
+    "brand": "Yamaha",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-60",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "998",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "engine_type": "4 xy lanh, DOHC, 4 thì",
+      "tank_capacity": "17",
+      "fuel_consumption": "8",
+      "tire_rear": "Lốp không xăm, 190/55 ZR17 M/C (75W)",
+      "tire_front": "Lốp không xăm, 120/70 ZR17 M/C (58W)"
+    }
+  },
+  {
+    "id": "yamaha-61",
+    "name": "MT-10 SP 2023",
+    "brand": "Yamaha",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-61",
+    "versions": [
+      "SP"
+    ],
+    "specs": {
+      "displacement": "998",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "engine_type": "4 xy lanh, DOHC, 4 thì",
+      "tank_capacity": "17",
+      "fuel_consumption": "8",
+      "tire_rear": "Lốp không xăm, 190/55 ZR17 M/C (75W)",
+      "tire_front": "Lốp không xăm, 120/70 ZR17 M/C (58W)"
+    }
+  },
+  {
+    "id": "yamaha-62",
+    "name": "Tenere 700 2023",
+    "brand": "Yamaha",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-62",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "689",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "engine_type": "2 xy lanh, DOHC, 4 thì",
+      "tank_capacity": "16",
+      "fuel_consumption": "4,3",
+      "tire_rear": "Lốp không xăm, 150/70 R 18 M/C 70V",
+      "tire_front": "Lốp không xăm, 90/90 - 21 M/C 54V"
+    }
+  },
+  {
+    "id": "yamaha-63",
+    "name": "Tracer-9 2023",
+    "brand": "Yamaha",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-63",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "890",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "engine_type": "3 xy lanh, DOHC, 4 thì",
+      "tank_capacity": "18",
+      "fuel_consumption": "5",
+      "tire_rear": "Lốp không xăm, 180/55 ZR17M / C (73W)",
+      "tire_front": "Lốp không xăm, 120/70 ZR17M / C (58W)"
+    }
+  },
+  {
+    "id": "yamaha-64",
+    "name": "YZF-R7 2023",
+    "brand": "Yamaha",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-64",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "689",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "engine_type": "2 xy lanh , DOHC, 4 thì",
+      "tank_capacity": "13",
+      "fuel_consumption": "4,2",
+      "tire_rear": "Lốp không xăm, 180/55 ZR17 M/C (73W)",
+      "tire_front": "Lốp không xăm, 120/70 ZR17 M/C (58W)"
+    }
+  },
+  {
+    "id": "yamaha-1023",
+    "name": "XSR900 2023",
+    "brand": "Yamaha",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-1023",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "engine_type": "Xăng",
+      "displacement": "890",
+      "cooling_system": "Dung dịch",
+      "tank_capacity": "14",
+      "tire_front": "120/70 ZR17",
+      "tire_rear": "180/55 ZR17"
+    }
+  },
+  {
+    "id": "yamaha-1024",
+    "name": "WR155R 2023",
+    "brand": "Yamaha",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-1024",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "engine_type": "Xi-lanh đơn, SOHC, 4 thì",
+      "displacement": "155",
+      "cooling_system": "Dung dịch",
+      "tank_capacity": "8,1",
+      "tire_front": "2.75-21 45P",
+      "tire_rear": "4.10-18 59P"
+    }
+  },
+  {
+    "id": "yamaha-1029",
+    "name": "PG-1 2024",
+    "brand": "Yamaha",
+    "type": "Xe số",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual",
+      "air_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-1029",
+    "versions": [
+      "PG-1"
+    ],
+    "specs": {
+      "engine_type": "4 kỳ, 2 van, SOHC",
+      "displacement": "113.7",
+      "cooling_system": "Gió cưỡng bức (không khí)",
+      "tank_capacity": "5,1",
+      "tire_front": "90/100-16M/C 51P (lốp có săm)",
+      "tire_rear": "90/100-16M/C 51P (lốp có săm)"
+    }
+  },
+  {
+    "id": "yamaha-1039",
+    "name": "LEXi 2024",
+    "brand": "Yamaha",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-1039",
+    "versions": [
+      "Tiêu chuẩn",
+      "Cao cấp"
+    ],
+    "specs": {
+      "engine_type": "Động cơ xăng, 4 kỳ, 1 xi lanh",
+      "displacement": "155,1",
+      "cooling_system": "Bằng chất lỏng",
+      "tank_capacity": "4,2",
+      "fuel_consumption": "2,19",
+      "tire_front": "90/90-14M/C 46P",
+      "tire_rear": "100/90-14M/C 57P"
+    }
+  },
+  {
+    "id": "yamaha-1054",
+    "name": "XMax 2025",
+    "brand": "Yamaha",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yamaha-1054",
+    "versions": [
+      "XMax 300"
+    ],
+    "specs": {
+      "engine_type": "Xăng, 4 kỳ, 1 xy-lanh",
+      "displacement": "292",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "tank_capacity": "13",
+      "fuel_consumption": "3,01",
+      "tire_front": "Lốp không săm 120/70 - 15M/C 56P",
+      "tire_rear": "Lốp không săm 140/70 - 14M/C 62P"
+    }
+  },
+  {
+    "id": "sym-191",
+    "name": "Attila 50 2023",
+    "brand": "SYM",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/sym-191",
+    "versions": [
+      "Trắng đen",
+      "Đen",
+      "Đỏ đen",
+      "Xám đỏ đen"
+    ],
+    "specs": {
+      "displacement": "49,5",
+      "cooling_system": "Bằng không khí",
+      "engine_type": "4 thì",
+      "tank_capacity": "5,7",
+      "fuel_consumption": "Dưới 2,22",
+      "tire_rear": "120/70-12",
+      "tire_front": "110/70-12"
+    }
+  },
+  {
+    "id": "sym-192",
+    "name": "Passing 50 2023",
+    "brand": "SYM",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/sym-192",
+    "versions": [
+      "Đen xám",
+      "Sơn mờ - Màu xám",
+      "Sơn mờ - Màu Đen"
+    ],
+    "specs": {
+      "displacement": "49,5",
+      "cooling_system": "Bằng không khí",
+      "engine_type": "4 thì",
+      "tank_capacity": "4,5",
+      "fuel_consumption": "2",
+      "tire_rear": "Có ruột 80/90-14",
+      "tire_front": "Có ruột 70/90-14"
+    }
+  },
+  {
+    "id": "sym-193",
+    "name": "Elite 50 2023",
+    "brand": "SYM",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/sym-193",
+    "versions": [
+      "Thường",
+      "Bản Đặc biệt"
+    ],
+    "specs": {
+      "cooling_system": "Không khí",
+      "displacement": "49,5",
+      "engine_type": "Xăng, 4 kỳ",
+      "fuel_consumption": "1,88",
+      "tank_capacity": "4,5",
+      "tire_rear": "Không ruột 90/90-10",
+      "tire_front": "Không ruột 90/90-10"
+    }
+  },
+  {
+    "id": "sym-194",
+    "name": "Angela 50 2023",
+    "brand": "SYM",
+    "type": "Xe số",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/sym-194",
+    "versions": [
+      "Thường",
+      "Sơn mờ"
+    ],
+    "specs": {
+      "displacement": "49,5",
+      "cooling_system": "Không khí",
+      "engine_type": "Xăng, 4 kỳ",
+      "tank_capacity": "3,4",
+      "fuel_consumption": "1,26",
+      "tire_rear": "Có ruột 2.50 -17",
+      "tire_front": "Có ruột 2.25 -17"
+    }
+  },
+  {
+    "id": "sym-195",
+    "name": "Galaxy 50 2023",
+    "brand": "SYM",
+    "type": "Xe số",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/sym-195",
+    "versions": [
+      "Thường",
+      "Bánh mâm"
+    ],
+    "specs": {
+      "displacement": "49,5",
+      "cooling_system": "Không khí",
+      "engine_type": "Xăng, 4 kỳ",
+      "tank_capacity": "4",
+      "fuel_consumption": "1,29",
+      "tire_rear": "Có ruột 80/80-17",
+      "tire_front": "Có ruột 70/80-17"
+    }
+  },
+  {
+    "id": "sym-196",
+    "name": "Elegant 50 2023",
+    "brand": "SYM",
+    "type": "Xe số",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/sym-196",
+    "versions": [
+      "Thường",
+      "Bánh mâm"
+    ],
+    "specs": {
+      "displacement": "49,5",
+      "cooling_system": "Không khí",
+      "engine_type": "Xăng, 4 kỳ",
+      "tank_capacity": "4",
+      "fuel_consumption": "1,44",
+      "tire_rear": "Có ruột 80/80-17",
+      "tire_front": "Có ruột 70/80-17"
+    }
+  },
+  {
+    "id": "sym-197",
+    "name": "Elegant 110 2023",
+    "brand": "SYM",
+    "type": "Xe số",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/sym-197",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "110",
+      "cooling_system": "Không khí",
+      "engine_type": "Xăng, 4 kỳ",
+      "tank_capacity": "4",
+      "fuel_consumption": "1,44",
+      "tire_rear": "Có ruột 80/80-17",
+      "tire_front": "Có ruột 70/80-17"
+    }
+  },
+  {
+    "id": "sym-198",
+    "name": "New Angel 125 2023",
+    "brand": "SYM",
+    "type": "Xe số",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/sym-198",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "124,6",
+      "cooling_system": "Không khí",
+      "engine_type": "Xăng, 4 kỳ",
+      "tank_capacity": "3,4",
+      "fuel_consumption": "1,7",
+      "tire_rear": "Không ruột 80/90 - 17",
+      "tire_front": "Không ruột 70/90 - 17"
+    }
+  },
+  {
+    "id": "sym-199",
+    "name": "New Galaxy 125 2023",
+    "brand": "SYM",
+    "type": "Xe số",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/sym-199",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "124,6",
+      "cooling_system": "Không khí",
+      "engine_type": "Xăng, 4 kỳ",
+      "tank_capacity": "3,4",
+      "fuel_consumption": "1,7",
+      "tire_rear": "Không ruột 80/90 - 17",
+      "tire_front": "Không ruột 70/90 - 17"
+    }
+  },
+  {
+    "id": "sym-200",
+    "name": "Star SR 125 EFI 2023",
+    "brand": "SYM",
+    "type": "Xe côn tay",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual",
+      "chain_drive"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/sym-200",
+    "versions": [
+      "Côn tay"
+    ],
+    "specs": {
+      "displacement": "123",
+      "cooling_system": "Không khí",
+      "engine_type": "Xăng, 4 kỳ",
+      "tank_capacity": "3,6",
+      "fuel_consumption": "1,4",
+      "tire_rear": "120/90 - 17",
+      "tire_front": "70/90 - 17"
+    }
+  },
+  {
+    "id": "sym-201",
+    "name": "Star SR 170 2023",
+    "brand": "SYM",
+    "type": "Xe côn tay",
+    "template_id": "under_350cc",
+    "tags": [
+      "manual",
+      "chain_drive",
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/sym-201",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "174,5",
+      "cooling_system": "Dung Dịch",
+      "engine_type": "Xăng, 4 kỳ",
+      "tank_capacity": "6,5",
+      "fuel_consumption": "1,8",
+      "tire_rear": "120/70-17",
+      "tire_front": "90/80-17"
+    }
+  },
+  {
+    "id": "sym-202",
+    "name": "Z1 2023",
+    "brand": "SYM",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/sym-202",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "",
+      "cooling_system": "",
+      "engine_type": "Điện",
+      "tank_capacity": "",
+      "fuel_consumption": "",
+      "tire_rear": "90/90-12",
+      "tire_front": "90/90-12"
+    }
+  },
+  {
+    "id": "sym-1050",
+    "name": "Naga 150 2025",
+    "brand": "SYM",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/sym-1050",
+    "versions": [
+      "Bản tiêu chuẩn"
+    ],
+    "specs": {
+      "engine_type": "Xăng, 4 kỳ",
+      "cooling_system": "Dung dịch",
+      "displacement": "149,6",
+      "fuel_consumption": "2,26",
+      "tank_capacity": "28",
+      "tire_rear": "Không ruột 130/70-13",
+      "tire_front": "Không ruột 120/70-13"
+    }
+  },
+  {
+    "id": "sym-1060",
+    "name": "TPBW 2025",
+    "brand": "SYM",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/sym-1060",
+    "versions": [
+      "Bản khóa thường",
+      "Bản smartkey"
+    ],
+    "specs": {
+      "engine_type": "Xăng, 4 kỳ",
+      "cooling_system": "Không khí",
+      "displacement": "124,9",
+      "fuel_consumption": "1,75",
+      "tank_capacity": "5",
+      "tire_rear": "Không ruột 80/90-14",
+      "tire_front": "Không ruột 90/90-14"
+    }
+  },
+  {
+    "id": "yadea-216",
+    "name": "Xmen 2023",
+    "brand": "Yadea",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yadea-216",
+    "versions": [
+      "Tiêu chuẩn",
+      "NEO"
+    ],
+    "specs": {
+      "displacement": "",
+      "cooling_system": "",
+      "engine_type": "Động cơ một chiều không chổi than",
+      "tank_capacity": "",
+      "fuel_consumption": "",
+      "tire_rear": "90/80-10",
+      "tire_front": "90/80-12"
+    }
+  },
+  {
+    "id": "yadea-217",
+    "name": "Odora 2023",
+    "brand": "Yadea",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yadea-217",
+    "versions": [
+      "TTFAR",
+      "S1 (Thiên Năng)",
+      "S1 TTFAR",
+      "Pro"
+    ],
+    "specs": {
+      "displacement": "",
+      "cooling_system": "",
+      "engine_type": "GTR",
+      "tank_capacity": "",
+      "fuel_consumption": "",
+      "tire_rear": "3.50-10",
+      "tire_front": "90/90-12"
+    }
+  },
+  {
+    "id": "yadea-218",
+    "name": "X-Bull 2023",
+    "brand": "Yadea",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yadea-218",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "",
+      "cooling_system": "",
+      "engine_type": "Động cơ điện một chiều không chổi than",
+      "tank_capacity": "",
+      "fuel_consumption": "",
+      "tire_rear": "Không săm 3.00-10",
+      "tire_front": "Không săm 3.00-10"
+    }
+  },
+  {
+    "id": "yadea-219",
+    "name": "M6I TTFAR 2023",
+    "brand": "Yadea",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yadea-219",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "",
+      "cooling_system": "",
+      "engine_type": "YADEA TTFAR",
+      "tank_capacity": "",
+      "fuel_consumption": "",
+      "tire_rear": "Lốp không săm 3.00-10",
+      "tire_front": "Lốp không săm 3.00-10"
+    }
+  },
+  {
+    "id": "yadea-220",
+    "name": "S3 2023",
+    "brand": "Yadea",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yadea-220",
+    "versions": [
+      "Tiêu chuẩn",
+      "Pro"
+    ],
+    "specs": {
+      "displacement": "",
+      "cooling_system": "",
+      "engine_type": "YADEA GTR",
+      "tank_capacity": "",
+      "fuel_consumption": "",
+      "tire_rear": "Lốp không săm 90/80-12",
+      "tire_front": "Lốp không săm 90/80-12"
+    }
+  },
+  {
+    "id": "yadea-221",
+    "name": "Ulike 2023",
+    "brand": "Yadea",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yadea-221",
+    "versions": [
+      "A1",
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "cooling_system": "",
+      "displacement": "",
+      "engine_type": "Động cơ một chiều không chổi than GTR",
+      "fuel_consumption": "",
+      "tank_capacity": "",
+      "tire_rear": "Không săm 3.00 - 10",
+      "tire_front": "Không săm 3.00 - 10"
+    }
+  },
+  {
+    "id": "yadea-223",
+    "name": "G5 2023",
+    "brand": "Yadea",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yadea-223",
+    "versions": [
+      "Lite",
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "engine_type": "Yadea GTR",
+      "cooling_system": "",
+      "displacement": "",
+      "fuel_consumption": "",
+      "tank_capacity": "",
+      "tire_rear": "90/90-12",
+      "tire_front": "90/90-12"
+    }
+  },
+  {
+    "id": "yadea-226",
+    "name": "X5 2023",
+    "brand": "Yadea",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yadea-226",
+    "versions": [
+      "Lite",
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "",
+      "engine_type": "Động cơ một chiều không chổi than GTR 4.0",
+      "cooling_system": "",
+      "fuel_consumption": "",
+      "tank_capacity": "",
+      "tire_rear": "3.00-10",
+      "tire_front": "90/80-12"
+    }
+  },
+  {
+    "id": "yadea-228",
+    "name": "E3 2023",
+    "brand": "Yadea",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yadea-228",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "",
+      "cooling_system": "",
+      "engine_type": "Động cơ một chiều không chổi than GTR 3.0",
+      "tank_capacity": "",
+      "fuel_consumption": "",
+      "tire_rear": "3.00-10",
+      "tire_front": "3.00-10"
+    }
+  },
+  {
+    "id": "yadea-229",
+    "name": "IGO 2023",
+    "brand": "Yadea",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yadea-229",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "",
+      "cooling_system": "",
+      "engine_type": "Động cơ một chiều không chổi than GTR 2.0",
+      "tank_capacity": "",
+      "fuel_consumption": "",
+      "tire_rear": "60/100-10",
+      "tire_front": "60/100-10"
+    }
+  },
+  {
+    "id": "yadea-230",
+    "name": "X-Joy 2023",
+    "brand": "Yadea",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yadea-230",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "",
+      "cooling_system": "",
+      "engine_type": "Động cơ một chiều không chổi than GTR 2.0",
+      "tank_capacity": "",
+      "fuel_consumption": "",
+      "tire_rear": "3.00-10",
+      "tire_front": "3.00-10"
+    }
+  },
+  {
+    "id": "yadea-1021",
+    "name": "Orla 2023",
+    "brand": "Yadea",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yadea-1021",
+    "versions": [
+      "Orla 60V26Ah"
+    ],
+    "specs": {
+      "engine_type": "Điện",
+      "tire_front": "90/80R12",
+      "tire_rear": "90/80R12"
+    }
+  },
+  {
+    "id": "yadea-1022",
+    "name": "Voltguard 2023",
+    "brand": "Yadea",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yadea-1022",
+    "versions": [
+      "Voltguard 72V26Ah",
+      "Voltguard 72V38Ah"
+    ],
+    "specs": {
+      "engine_type": "Điện",
+      "tire_front": "90/90R14",
+      "tire_rear": "100/90R14"
+    }
+  },
+  {
+    "id": "yadea-1040",
+    "name": "Ossy 2024",
+    "brand": "Yadea",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yadea-1040",
+    "versions": [
+      "Ossy 2024"
+    ],
+    "specs": {
+      "tire_rear": "90/90-10",
+      "tire_front": "90/90-10"
+    }
+  },
+  {
+    "id": "yadea-1052",
+    "name": "Velax 2025",
+    "brand": "Yadea",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yadea-1052",
+    "versions": [
+      "Velax U"
+    ],
+    "specs": {
+      "tire_rear": "100/90-14",
+      "tire_front": "90/90-14"
+    }
+  },
+  {
+    "id": "yadea-1053",
+    "name": "Vekoo 2025",
+    "brand": "Yadea",
+    "type": "Xe điện",
+    "template_id": "electric",
+    "tags": [
+      "ev"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/yadea-1053",
+    "versions": [
+      "Vekoo"
+    ],
+    "specs": {}
+  },
+  {
+    "id": "moto-guzzi-102",
+    "name": "V85 TT 2023",
+    "brand": "Moto Guzzi",
+    "type": "Touring",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/moto-guzzi-102",
+    "versions": [
+      "Tiêu chuẩn",
+      "Travel"
+    ],
+    "specs": {}
+  },
+  {
+    "id": "moto-guzzi-103",
+    "name": "V7 2023",
+    "brand": "Moto Guzzi",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/moto-guzzi-103",
+    "versions": [
+      "Stone",
+      "Special"
+    ],
+    "specs": {
+      "cooling_system": "Không khí",
+      "displacement": "853",
+      "engine_type": "2 Xi-lanh ngang, 4 thì, 2 van trên mỗi xi-lanh.",
+      "fuel_consumption": "4,9",
+      "tank_capacity": "21",
+      "tire_rear": "150/70 R17",
+      "tire_front": "100/90 R18"
+    }
+  },
+  {
+    "id": "moto-guzzi-104",
+    "name": "V9 2023",
+    "brand": "Moto Guzzi",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/moto-guzzi-104",
+    "versions": [
+      "Bobber"
+    ],
+    "specs": {
+      "tank_capacity": "15",
+      "fuel_consumption": "4,9"
+    }
+  },
+  {
+    "id": "moto-guzzi-1025",
+    "name": "V100 Mandello 2023",
+    "brand": "Moto Guzzi",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/moto-guzzi-1025",
+    "versions": [
+      "S"
+    ],
+    "specs": {
+      "engine_type": "V-Twin 90 độ ngang",
+      "displacement": "1.042",
+      "cooling_system": "Chất lỏng",
+      "tank_capacity": "17",
+      "fuel_consumption": "4,7",
+      "tire_front": "120/70 R17",
+      "tire_rear": "190/55 R17"
+    }
+  },
+  {
+    "id": "harley-davidson-150",
+    "name": "Nightster 2023",
+    "brand": "Harley-Davidson",
+    "type": "Cruiser",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/harley-davidson-150",
+    "versions": [
+      "Vivid Black"
+    ],
+    "specs": {
+      "displacement": "975",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "Revolution™ Max 975T",
+      "tank_capacity": "11,7",
+      "fuel_consumption": "5,5",
+      "tire_rear": "150/80B16",
+      "tire_front": "100/90R19"
+    }
+  },
+  {
+    "id": "harley-davidson-151",
+    "name": "Nightster Special 2023",
+    "brand": "Harley-Davidson",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/harley-davidson-151",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "975",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "Revolution™ Max 975T",
+      "tank_capacity": "11,7",
+      "fuel_consumption": "5,5",
+      "tire_rear": "150/80B16",
+      "tire_front": "100/90R19"
+    }
+  },
+  {
+    "id": "harley-davidson-152",
+    "name": "Sportster S 2023",
+    "brand": "Harley-Davidson",
+    "type": "Cruiser",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/harley-davidson-152",
+    "versions": [
+      "Midnight Crimson",
+      "Stone Washed White Pearl",
+      "Vivid Black",
+      "White Sand Pearl",
+      "Mineral Green Metallic"
+    ],
+    "specs": {
+      "displacement": "1.252",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "Revolution™ Max 1250T",
+      "tank_capacity": "11,8",
+      "fuel_consumption": "5,1",
+      "tire_rear": "180/70R16",
+      "tire_front": "160/70R17"
+    }
+  },
+  {
+    "id": "harley-davidson-153",
+    "name": "Fat Boy 114 2023",
+    "brand": "Harley-Davidson",
+    "type": "Cruiser",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/harley-davidson-153",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "1.923",
+      "engine_type": "Milwaukee-Eight™ 117",
+      "cooling_system": "",
+      "fuel_consumption": "5,5",
+      "tank_capacity": "18,9",
+      "tire_rear": "240/40R18,79V,BW, Michelin™ Scorcher™ \"11\"",
+      "tire_front": "160/60R18,70V,BW, Michelin™ Scorcher™ \"11\""
+    }
+  },
+  {
+    "id": "harley-davidson-154",
+    "name": "Street Bob 114 2023",
+    "brand": "Harley-Davidson",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/harley-davidson-154",
+    "versions": [
+      "Fastback Blue"
+    ],
+    "specs": {
+      "displacement": "1.868",
+      "cooling_system": "",
+      "engine_type": "Milwaukee-Eight™ 114",
+      "tank_capacity": "13,2",
+      "fuel_consumption": "5,5",
+      "tire_rear": "150/80B16,77H,BW, nhôm đúc Annihilator, Bạc",
+      "tire_front": "100/90B19,57H,BW, nhôm đúc Annihilator, Bạc"
+    }
+  },
+  {
+    "id": "harley-davidson-155",
+    "name": "Softail Standard 2023",
+    "brand": "Harley-Davidson",
+    "type": "Cruiser",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/harley-davidson-155",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "1.745",
+      "cooling_system": "",
+      "engine_type": "Milwaukee-Eight™ 114",
+      "tank_capacity": "13,2",
+      "fuel_consumption": "5,5",
+      "tire_rear": "150/80B16,77H,BW, Dunlop™ Harley-Davidson, thành lốp màu đen có bố xiên, nhôm đúc Annihilator, Bạc",
+      "tire_front": "100/90B19,57H,BW, Dunlop™ Harley-Davidson, thành lốp màu đen có bố xiên, nhôm đúc Annihilator, Bạc"
+    }
+  },
+  {
+    "id": "harley-davidson-156",
+    "name": "Low Rider S 2023",
+    "brand": "Harley-Davidson",
+    "type": "Cruiser",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/harley-davidson-156",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "1.923",
+      "cooling_system": "",
+      "engine_type": "Milwaukee-Eight™ 117",
+      "tank_capacity": "18,9",
+      "fuel_consumption": "5,5",
+      "tire_rear": "180/70B16,77H,BW, Michelin™ Scorcher™ \"31\", bánh xe nhôm đúc bằng đồng sẫm màu, tỏa nhiệt",
+      "tire_front": "110/90B19,62H,BW, Michelin™ Scorcher™ \"31\", bánh xe nhôm đúc bằng đồng sẫm màu, tỏa nhiệt"
+    }
+  },
+  {
+    "id": "harley-davidson-157",
+    "name": "Fat Bob 114 2023",
+    "brand": "Harley-Davidson",
+    "type": "Cruiser",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/harley-davidson-157",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "1.868",
+      "cooling_system": "",
+      "engine_type": "Milwaukee-Eight™ 114",
+      "tank_capacity": "13,2",
+      "fuel_consumption": "5,5",
+      "tire_rear": "180/70B16, 77H, BW, Dunlop™ Harley-Davidson, thành lốp màu Denim black có bố xiên, nhôm đúc rắn rỏi với hình chạm khắc laser",
+      "tire_front": "150/80-16, 71H, BW, Dunlop™ Harley-Davidson, thành lốp màu Denim black có bố xiên, nhôm đúc rắn rỏi với hình chạm khắc laser"
+    }
+  },
+  {
+    "id": "harley-davidson-158",
+    "name": "Breakout 117 2023",
+    "brand": "Harley-Davidson",
+    "type": "Cruiser",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/harley-davidson-158",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "1.923",
+      "engine_type": "Milwaukee-Eight™ 114",
+      "cooling_system": "",
+      "fuel_consumption": "5,6",
+      "tank_capacity": "18,9",
+      "tire_rear": "240/40R18, 79V, BW, Michelin™ Scorcher™ \"11\", Màu đen bóng, nhôm đúc 26 nan hoa",
+      "tire_front": "130/60B21, 63H, BW, Michelin™ Scorcher™ \"11\", Màu đen bóng, nhôm đúc 26 nan hoa"
+    }
+  },
+  {
+    "id": "harley-davidson-159",
+    "name": "Heritage Classic 2023",
+    "brand": "Harley-Davidson",
+    "type": "Cruiser",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/harley-davidson-159",
+    "versions": [
+      "Midnight Crimson & Stonewashed White Pearl"
+    ],
+    "specs": {
+      "displacement": "1.868",
+      "cooling_system": "",
+      "engine_type": "Milwaukee-Eight™ 114",
+      "tank_capacity": "18,9",
+      "fuel_consumption": "5,5",
+      "tire_rear": "150/80B16, 77H, BW, Dunlop™ Harley-Davidson, thành lốp màu đen có bố xiên, mẫu xe cơ sở: Đen bóng, nhôm đúc 9 nan hoa, Mẫu xe Kỷ niệm: Mạ crôm, nhôm đúc 9 nan hoa",
+      "tire_front": "130/90B16, 73H, BW, Dunlop™ Harley-Davidson, thành lốp màu đen có bố xiên, mẫu xe cơ sở: Đen bóng, nhôm đúc 9 nan hoa, Mẫu xe Kỷ niệm: Mạ crôm, nhôm đúc 9 nan hoa"
+    }
+  },
+  {
+    "id": "harley-davidson-160",
+    "name": "Sport Glide 2023",
+    "brand": "Harley-Davidson",
+    "type": "Cruiser",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/harley-davidson-160",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "1.745",
+      "cooling_system": "",
+      "engine_type": "Milwaukee-Eight™ 114",
+      "tank_capacity": "18,9",
+      "fuel_consumption": "5,5",
+      "tire_rear": "180/70B16 77H BW, Michelin™ Scorcher™ \"31\", màu đen, được gia công nổi bật, vành nhôm đúc kiểu Mantis",
+      "tire_front": "130/70B18 63H BW, Michelin™ Scorcher™ \"31\", màu đen, được gia công nổi bật, vành nhôm đúc kiểu Mantis"
+    }
+  },
+  {
+    "id": "harley-davidson-161",
+    "name": "Low Rider ST 2023",
+    "brand": "Harley-Davidson",
+    "type": "Cruiser",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/harley-davidson-161",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "1.923",
+      "cooling_system": "",
+      "engine_type": "Milwaukee-Eight™ 117",
+      "tank_capacity": "18,9",
+      "fuel_consumption": "5,5",
+      "tire_rear": "180/70B16, 77H, BW, Michelin™ Scorcher™ \"31\", bánh xe nhôm đúc bằng đồng sẫm màu, tỏa nhiệt",
+      "tire_front": "110/90B19, 62H, BW, Michelin™ Scorcher™ \"31\", bánh xe nhôm đúc bằng đồng sẫm màu, tỏa nhiệt"
+    }
+  },
+  {
+    "id": "harley-davidson-162",
+    "name": "Street Glide Special 2023",
+    "brand": "Harley-Davidson",
+    "type": "Cruiser",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/harley-davidson-162",
+    "versions": [
+      "Gunship Gray"
+    ],
+    "specs": {
+      "displacement": "1.868",
+      "cooling_system": "",
+      "engine_type": "Milwaukee-Eight™ 114",
+      "tank_capacity": "22,7",
+      "fuel_consumption": "6,1",
+      "tire_rear": "180/55B18 80H, Dunlop™ Harley-Davidson, thành lốp màu đen có bố xiên",
+      "tire_front": "130/60B19 61H, Dunlop™ Harley-Davidson, thành lốp màu đen có bố xiên"
+    }
+  },
+  {
+    "id": "harley-davidson-163",
+    "name": "CVO Road Glide Limited 2023",
+    "brand": "Harley-Davidson",
+    "type": "Cruiser",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/harley-davidson-163",
+    "versions": [
+      "Street Glide Great White Pearl",
+      "Street Glide Sunset Orange Fade & Sunset Black",
+      "Street Glide® Bronze Armor",
+      "Road Glide® Black Hole",
+      "Road Glide™",
+      "Road Glide® Sunset Orange Fade & Sunset Black",
+      "Limited Bronze Armor"
+    ],
+    "specs": {
+      "displacement": "1.868",
+      "cooling_system": "",
+      "engine_type": "Milwaukee-Eight™ 114",
+      "tank_capacity": "22,7",
+      "fuel_consumption": "6,1",
+      "tire_rear": "180/55B18 80H, Dunlop™ Harley-Davidson, thành lốp màu đen có bố xiên, vành Tomahawk màu Gloss Black và Contrast Chrome",
+      "tire_front": "130/60B19 61H, Dunlop™ Harley-Davidson, thành lốp màu đen có bố xiên, vành Tomahawk màu Gloss Black và Contrast Chrome"
+    }
+  },
+  {
+    "id": "harley-davidson-164",
+    "name": "Road Glide Special 2023",
+    "brand": "Harley-Davidson",
+    "type": "Cruiser",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/harley-davidson-164",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "engine_type": "Milwaukee-Eight™ 114",
+      "displacement": "1.868",
+      "tank_capacity": "22,7",
+      "fuel_consumption": "6,779",
+      "tire_front": "Màu Gloss Black lạ kỳ với đường cắt tương phản",
+      "tire_rear": "Màu Gloss Black lạ kỳ với đường cắt tương phản"
+    }
+  },
+  {
+    "id": "harley-davidson-165",
+    "name": "Ultra Limited 2023",
+    "brand": "Harley-Davidson",
+    "type": "Cruiser",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/harley-davidson-165",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "1.868",
+      "cooling_system": "",
+      "engine_type": "Twin-Cooled™ Milwaukee-Eight™ 114",
+      "tank_capacity": "22,7",
+      "fuel_consumption": "6,3",
+      "tire_rear": "BW 180/55B18 80H, Dunlop™ Harley-Davidson, thành lốp màu đen có bố xiên, Slicer II nhôm đúc với lớp phủ trong suốt",
+      "tire_front": "BW 130/70B18 63H, Dunlop™ Harley-Davidson, thành lốp màu đen có bố xiên, Slicer II nhôm đúc với lớp phủ trong suốt"
+    }
+  },
+  {
+    "id": "harley-davidson-166",
+    "name": "Road King Special 2023",
+    "brand": "Harley-Davidson",
+    "type": "Cruiser",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/harley-davidson-166",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "1.868",
+      "cooling_system": "",
+      "engine_type": "Milwaukee-Eight™ 114",
+      "tank_capacity": "22,7",
+      "fuel_consumption": "6,1",
+      "tire_rear": "180/55B18 80H, đen bóng, Dunlop™ Harley-Davidson, thành lốp màu đen có bố xiên",
+      "tire_front": "130/60B19 61H, đen bóng, Dunlop™ Harley-Davidson, thành lốp màu đen có bố xiên"
+    }
+  },
+  {
+    "id": "harley-davidson-167",
+    "name": "Street Glide 2025",
+    "brand": "Harley-Davidson",
+    "type": "Touring",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/harley-davidson-167",
+    "versions": [
+      "CVO",
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "engine_type": "Milwaukee-Eight™ 117",
+      "displacement": "1.923",
+      "cooling_system": "",
+      "tank_capacity": "",
+      "fuel_consumption": "",
+      "tire_front": "",
+      "tire_rear": ""
+    }
+  },
+  {
+    "id": "harley-davidson-168",
+    "name": "Pan America 1250 Special 2023",
+    "brand": "Harley-Davidson",
+    "type": "Touring",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/harley-davidson-168",
+    "versions": [
+      "Vivid Black",
+      "Gauntlet Gray Metallic",
+      "Deadwood Green",
+      "Baja Orange / Stonewashed White Pearl"
+    ],
+    "specs": {
+      "displacement": "1.252",
+      "engine_type": "Revolution™ Max 1250",
+      "cooling_system": "",
+      "fuel_consumption": "5,5",
+      "tank_capacity": "21,2",
+      "tire_rear": "170/60R17 72V, Michelin™ Scorcher™ “Adventure”, lốp bố tỏa tròn, bánh không săm tráng nhôm, nhôm đúc, đen nhám",
+      "tire_front": "120/70R19 60V, Michelin™ Scorcher™ “Adventure”, lốp bố tỏa tròn, bánh không săm tráng nhôm, nhôm đúc, đen nhám"
+    }
+  },
+  {
+    "id": "harley-davidson-1057",
+    "name": "Road Glide 2025",
+    "brand": "Harley-Davidson",
+    "type": "Touring",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/harley-davidson-1057",
+    "versions": [
+      "CVO"
+    ],
+    "specs": {
+      "engine_type": "Milwaukee-Eight™ 117",
+      "displacement": "1.923",
+      "cooling_system": "",
+      "tank_capacity": "",
+      "fuel_consumption": "",
+      "tire_front": "",
+      "tire_rear": ""
+    }
+  },
+  {
+    "id": "ducati-92",
+    "name": "Diavel 2023",
+    "brand": "Ducati",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ducati-92",
+    "versions": [
+      "1260S",
+      "1260"
+    ],
+    "specs": {
+      "displacement": "106 x 71,5",
+      "engine_type": "",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "fuel_consumption": "5,5",
+      "tank_capacity": "17",
+      "tire_rear": "Pirelli Diablo Rosso III 240/45 ZR17",
+      "tire_front": "Pirelli Diablo Rosso III 120/70 ZR17"
+    }
+  },
+  {
+    "id": "ducati-93",
+    "name": "Xdiavel 2023",
+    "brand": "Ducati",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ducati-93",
+    "versions": [
+      "Nera",
+      "S"
+    ],
+    "specs": {
+      "displacement": "1.262",
+      "engine_type": "Testatretta DVT 1262, 4 van trên mỗi xi-lanh",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "fuel_consumption": "5,5",
+      "tank_capacity": "18",
+      "tire_rear": "Pirelli Diablo Rosso III 240/45 ZR17",
+      "tire_front": "Pirelli Diablo Rosso III 120/70 ZR17"
+    }
+  },
+  {
+    "id": "ducati-94",
+    "name": "Hypermotard 2023",
+    "brand": "Ducati",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ducati-94",
+    "versions": [
+      "950",
+      "950 RVE",
+      "950 SP"
+    ],
+    "specs": {
+      "displacement": "937",
+      "engine_type": "Testastretta 11°, xi-lanh L-Twin, 4 van mỗi xi-lanh, Desmodromic",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "fuel_consumption": "5,1",
+      "tank_capacity": "14,5",
+      "tire_rear": "Pirelli Diablo Rosso III, 180/55 ZR17",
+      "tire_front": "Pirelli Diablo Rosso III, 120/70 ZR17"
+    }
+  },
+  {
+    "id": "ducati-95",
+    "name": "Monster 2023",
+    "brand": "Ducati",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ducati-95",
+    "versions": [
+      "937",
+      "937+"
+    ],
+    "specs": {
+      "displacement": "937",
+      "engine_type": "Testastretta 11°, V2 - 90°, 4 van trên mỗi xi lanh",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "fuel_consumption": "5.262",
+      "tank_capacity": "14",
+      "tire_rear": "Pirelli Diablo Rosso III 180/55 ZR17",
+      "tire_front": "Pirelli Diablo Rosso III 120/70 ZR17"
+    }
+  },
+  {
+    "id": "ducati-96",
+    "name": "Multistrada 2023",
+    "brand": "Ducati",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ducati-96",
+    "versions": [
+      "V2",
+      "V4",
+      "V2 S",
+      "V4 S"
+    ],
+    "specs": {
+      "cooling_system": "Làm mát bằng dung dịch",
+      "displacement": "937",
+      "engine_type": "Ducati Testastretta, xi-lanh L-Twin, Hệ thống van Desmodromic, 4 van mỗi xi-lanh",
+      "fuel_consumption": "6.623",
+      "tank_capacity": "20",
+      "tire_rear": "Pirelli Scorpion Trail II 170/60 ZR 17",
+      "tire_front": "Pirelli Scorpion Trail II 120/70 ZR 19"
+    }
+  },
+  {
+    "id": "ducati-97",
+    "name": "Panigale 2023",
+    "brand": "Ducati",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ducati-97",
+    "versions": [
+      "V4",
+      "V4 S",
+      "V2",
+      "V4 SP",
+      "New V2 Bayliss"
+    ],
+    "specs": {
+      "cooling_system": "Làm mát bằng dung dịch",
+      "displacement": "955",
+      "engine_type": "Superquadro, Xi-lanh L-Twin, 4 van mỗi xi-lanh, Desmodromic",
+      "fuel_consumption": "6,57",
+      "tank_capacity": "17",
+      "tire_rear": "Pirelli Diablo Rosso Corsa II 180/60 ZR 17",
+      "tire_front": "Pirelli Diablo Rosso Corsa II 120/70 ZR 17"
+    }
+  },
+  {
+    "id": "ducati-98",
+    "name": "Supersport 2023",
+    "brand": "Ducati",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ducati-98",
+    "versions": [
+      "950",
+      "950S"
+    ],
+    "specs": {
+      "displacement": "937",
+      "engine_type": "Testastretta 11°, xi-lanh L-Twin, 4 van mỗi xi-lanh, Desmodromic",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "fuel_consumption": "6.845",
+      "tank_capacity": "16",
+      "tire_rear": "Pirelli Diablo Rosso III 180/55 ZR17",
+      "tire_front": "Pirelli Diablo Rosso III 120/70 ZR17"
+    }
+  },
+  {
+    "id": "ducati-99",
+    "name": "Streetfighter 2023",
+    "brand": "Ducati",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ducati-99",
+    "versions": [
+      "V2",
+      "V4",
+      "V4 S"
+    ],
+    "specs": {
+      "cooling_system": "Làm mát bằng dung dịch",
+      "displacement": "955",
+      "engine_type": "Superquadro 90° V2, 4 van Desmodromic trên mỗi xi lanh",
+      "fuel_consumption": "6",
+      "tank_capacity": "17",
+      "tire_rear": "Pirelli Diablo Rosso IV 180/60 ZR17M",
+      "tire_front": "Pirelli Diablo Rosso IV 120/70 ZR17M"
+    }
+  },
+  {
+    "id": "ducati-100",
+    "name": "Desertx 2023",
+    "brand": "Ducati",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ducati-100",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "cooling_system": "Làm mát bằng dung dịch",
+      "displacement": "937",
+      "engine_type": "Ducati Testastretta 11°, xi-lanh L-Twin, 4 van mỗi xi-lanh",
+      "fuel_consumption": "5,6",
+      "tank_capacity": "21",
+      "tire_rear": "Pirelli Scorpion Rally STR 150/70 R18 M/C 70V M+S TL",
+      "tire_front": "Pirelli Scorpion Rally STR 90/90 - 21 M/C 54V M+S TL (A)"
+    }
+  },
+  {
+    "id": "ducati-101",
+    "name": "Scrambler 2022",
+    "brand": "Ducati",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ducati-101",
+    "versions": [
+      "1100 Dark Pro",
+      "Desert Sled",
+      "Icon",
+      "Icon Dark",
+      "1100 Sport Pro",
+      "Nightshift",
+      "Tribute Pro",
+      "Urban Motard",
+      "Full Throttle"
+    ],
+    "specs": {
+      "displacement": "803",
+      "engine_type": "Xi-lanh L-Twin, Desmodromic, 2 van mỗi xi-lanh",
+      "cooling_system": "Làm mát bằng không khí",
+      "fuel_consumption": "5,2",
+      "tank_capacity": "13,5",
+      "tire_rear": "Pirelli MT 60 RS 180/55 R17",
+      "tire_front": "Pirelli MT 60 RS 110/80 R18"
+    }
+  },
+  {
+    "id": "piaggio-65",
+    "name": "Liberty 2023",
+    "brand": "Piaggio",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [
+      "air_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/piaggio-65",
+    "versions": [
+      "125 One",
+      "Tiêu Chuẩn",
+      "Thể Thao",
+      "125 S",
+      "Z",
+      "125 #25"
+    ],
+    "specs": {
+      "displacement": "124,7",
+      "engine_type": "Xi-lanh đơn, 4 kì, 3 van",
+      "cooling_system": "Làm mát bằng gió cưỡng bức",
+      "fuel_consumption": "2,19",
+      "tank_capacity": "6",
+      "tire_rear": "Lốp không xăm 100/80 - 14\"",
+      "tire_front": "Lốp không xăm 90/80 - 16\""
+    }
+  },
+  {
+    "id": "piaggio-66",
+    "name": "Medley 2023",
+    "brand": "Piaggio",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/piaggio-66",
+    "versions": [
+      "125 S",
+      "150 S"
+    ],
+    "specs": {
+      "cooling_system": "Làm mát bằng dung dịch",
+      "displacement": "124,7",
+      "engine_type": "Xi-lanh đơn, 4 kì, 4 van",
+      "fuel_consumption": "",
+      "tank_capacity": "7,5",
+      "tire_rear": "Lốp không xăm 100/70 - 14\"",
+      "tire_front": "Lốp không xăm 100/80 - 16\""
+    }
+  },
+  {
+    "id": "piaggio-67",
+    "name": "Beverly 2023",
+    "brand": "Piaggio",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/piaggio-67",
+    "versions": [
+      "400 S"
+    ],
+    "specs": {
+      "displacement": "399",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "engine_type": "Động cơ 4 kỳ, 4 van",
+      "tank_capacity": "12",
+      "fuel_consumption": "",
+      "tire_rear": "150/70 14''",
+      "tire_front": "120/70 16''"
+    }
+  },
+  {
+    "id": "piaggio-68",
+    "name": "MP3 2022",
+    "brand": "Piaggio",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/piaggio-68",
+    "versions": [
+      "Sport 400 HPE"
+    ],
+    "specs": {
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "displacement": "399",
+      "engine_type": "SOHC, 4 kỳ, 4 van",
+      "fuel_consumption": "3,8",
+      "tank_capacity": "13,7",
+      "tire_rear": "Lốp không xăm 140/70-14”",
+      "tire_front": "Lốp không xăm 110/70-13”"
+    }
+  },
+  {
+    "id": "triumph-131",
+    "name": "Speed Twin 2023",
+    "brand": "Triumph",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/triumph-131",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "1.197",
+      "engine_type": "2 xi lanh song song",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "fuel_consumption": "5,05",
+      "tank_capacity": "14,5",
+      "tire_rear": "160/60ZR17",
+      "tire_front": "120/70ZR17"
+    }
+  },
+  {
+    "id": "triumph-132",
+    "name": "Speed Twin 900 2023",
+    "brand": "Triumph",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/triumph-132",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "900",
+      "engine_type": "2 xi lanh song song",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "fuel_consumption": "4,1",
+      "tank_capacity": "12",
+      "tire_rear": "150/70R17",
+      "tire_front": "100/90R18"
+    }
+  },
+  {
+    "id": "triumph-133",
+    "name": "Scrambler 900 2023",
+    "brand": "Triumph",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/triumph-133",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "cooling_system": "Làm mát bằng dung dịch",
+      "displacement": "900",
+      "engine_type": "2 xi lanh song song",
+      "fuel_consumption": "4,3",
+      "tank_capacity": "12",
+      "tire_rear": "150/70R17",
+      "tire_front": "100/90R19"
+    }
+  },
+  {
+    "id": "triumph-134",
+    "name": "Scrambler 1200 2023",
+    "brand": "Triumph",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/triumph-134",
+    "versions": [
+      "XC",
+      "XE"
+    ],
+    "specs": {
+      "cooling_system": "Làm mát bằng dung dịch",
+      "displacement": "1.197",
+      "engine_type": "2 xi lanh song song",
+      "fuel_consumption": "4,55",
+      "tank_capacity": "16",
+      "tire_rear": "LED",
+      "tire_front": "LED"
+    }
+  },
+  {
+    "id": "triumph-135",
+    "name": "Bonneville T100 2023",
+    "brand": "Triumph",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/triumph-135",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "900",
+      "engine_type": "2 xi lanh song song",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "fuel_consumption": "4,1",
+      "tank_capacity": "14,5",
+      "tire_rear": "150/70R17",
+      "tire_front": "100/90R19"
+    }
+  },
+  {
+    "id": "triumph-136",
+    "name": "Bonneville T120 2023",
+    "brand": "Triumph",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/triumph-136",
+    "versions": [
+      "Tiêu chuẩn",
+      "Black"
+    ],
+    "specs": {
+      "cooling_system": "Làm mát bằng dung dịch",
+      "displacement": "1.197",
+      "engine_type": "2 xi lanh song song",
+      "tank_capacity": "14,5",
+      "fuel_consumption": "4,7",
+      "tire_rear": "150/70R17",
+      "tire_front": "100/90R18"
+    }
+  },
+  {
+    "id": "triumph-137",
+    "name": "Bonneville Bobber 2023",
+    "brand": "Triumph",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/triumph-137",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "cooling_system": "Làm mát bằng dung dịch",
+      "displacement": "1.197",
+      "engine_type": "2 xi lanh song song",
+      "fuel_consumption": "4,6",
+      "tank_capacity": "12",
+      "tire_rear": "LED",
+      "tire_front": "LED"
+    }
+  },
+  {
+    "id": "triumph-138",
+    "name": "Bonneville Speedmaster 2023",
+    "brand": "Triumph",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/triumph-138",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "cooling_system": "Làm mát bằng dung dịch",
+      "displacement": "1.197",
+      "engine_type": "2 xi lanh song song",
+      "fuel_consumption": "4,6",
+      "tank_capacity": "12",
+      "tire_rear": "Khung thép ống, mắt cáo",
+      "tire_front": "LED"
+    }
+  },
+  {
+    "id": "triumph-139",
+    "name": "Thruxton RS 2023",
+    "brand": "Triumph",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/triumph-139",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "cooling_system": "Làm mát bằng dung dịch",
+      "displacement": "1.197",
+      "engine_type": "2 xi lanh song song",
+      "fuel_consumption": "4,9",
+      "tank_capacity": "14,5",
+      "tire_rear": "160/60ZR17",
+      "tire_front": "120/70ZR17"
+    }
+  },
+  {
+    "id": "triumph-140",
+    "name": "Street Triple 2023",
+    "brand": "Triumph",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/triumph-140",
+    "versions": [
+      "RS"
+    ],
+    "specs": {
+      "cooling_system": "Làm mát bằng dung dịch",
+      "displacement": "765",
+      "engine_type": "3 xi lanh thẳng hàng",
+      "fuel_consumption": "5,2",
+      "tank_capacity": "17,4",
+      "tire_rear": "LED",
+      "tire_front": "180/55ZR17"
+    }
+  },
+  {
+    "id": "triumph-141",
+    "name": "Trident 660 2023",
+    "brand": "Triumph",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/triumph-141",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "660",
+      "engine_type": "3 xi lanh thẳng hàng",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "fuel_consumption": "4,6",
+      "tank_capacity": "14",
+      "tire_rear": "180/55R17",
+      "tire_front": "120/70R17"
+    }
+  },
+  {
+    "id": "triumph-142",
+    "name": "Speed Triple 1200 RS 2023",
+    "brand": "Triumph",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/triumph-142",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "engine_type": "3 xi lanh thẳng hàng",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "displacement": "1.159,6",
+      "fuel_consumption": "6,3",
+      "tank_capacity": "15,5",
+      "tire_rear": "190/55ZR17",
+      "tire_front": "120/70ZR17"
+    }
+  },
+  {
+    "id": "triumph-143",
+    "name": "Speed Triple 1200 RR 2023",
+    "brand": "Triumph",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/triumph-143",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "cooling_system": "Làm mát bằng dung dịch",
+      "displacement": "1.159,6",
+      "engine_type": "3 xi lanh thẳng hàng",
+      "fuel_consumption": "6,3",
+      "tank_capacity": "15,5",
+      "tire_rear": "LED",
+      "tire_front": "LED"
+    }
+  },
+  {
+    "id": "triumph-144",
+    "name": "Rocket 3 GT 2023",
+    "brand": "Triumph",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/triumph-144",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "cooling_system": "Làm mát bằng dung dịch",
+      "displacement": "2.458",
+      "engine_type": "3 xi lanh thẳng hàng",
+      "fuel_consumption": "7",
+      "tank_capacity": "18",
+      "tire_rear": "Khung nhôm toàn bộ",
+      "tire_front": "LED"
+    }
+  },
+  {
+    "id": "triumph-145",
+    "name": "Rocket 3 R 2023",
+    "brand": "Triumph",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/triumph-145",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "2.458",
+      "engine_type": "3 xi lanh thẳng hàng",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "fuel_consumption": "7",
+      "tank_capacity": "18",
+      "tire_rear": "240/50R16",
+      "tire_front": "150/80R17"
+    }
+  },
+  {
+    "id": "triumph-146",
+    "name": "Tiger Sport 660 2023",
+    "brand": "Triumph",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/triumph-146",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "cooling_system": "Làm mát bằng dung dịch",
+      "displacement": "660",
+      "engine_type": "3 xi lanh thẳng hàng",
+      "tank_capacity": "17,2",
+      "fuel_consumption": "4,51",
+      "tire_rear": "180/55ZR17",
+      "tire_front": "120/70ZR17"
+    }
+  },
+  {
+    "id": "triumph-147",
+    "name": "Tiger 850 Sport 2023",
+    "brand": "Triumph",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/triumph-147",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "cooling_system": "Làm mát bằng dung dịch",
+      "displacement": "888",
+      "engine_type": "3 xi lanh thẳng hàng",
+      "fuel_consumption": "5,2",
+      "tank_capacity": "20",
+      "tire_rear": "LED",
+      "tire_front": "150/70R17"
+    }
+  },
+  {
+    "id": "triumph-148",
+    "name": "Tiger 900 2023",
+    "brand": "Triumph",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/triumph-148",
+    "versions": [
+      "Tiêu chuẩn",
+      "GT",
+      "Rally",
+      "GT Pro",
+      "Rally Pro"
+    ],
+    "specs": {
+      "engine_type": "3 xi lanh thẳng hàng",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "displacement": "888",
+      "fuel_consumption": "5,2",
+      "tank_capacity": "20",
+      "tire_front": "100/90R19",
+      "tire_rear": "LED"
+    }
+  },
+  {
+    "id": "triumph-149",
+    "name": "Tiger 1200 2023",
+    "brand": "Triumph",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/triumph-149",
+    "versions": [
+      "GT Pro",
+      "Rally Pro",
+      "GT Explorer",
+      "Rally Explorer"
+    ],
+    "specs": {
+      "cooling_system": "Làm mát bằng dung dịch",
+      "displacement": "1.160",
+      "engine_type": "3 xi lanh thẳng hàng",
+      "tank_capacity": "20",
+      "fuel_consumption": "5,13",
+      "tire_rear": "150/70R18",
+      "tire_front": "120/70R19"
+    }
+  },
+  {
+    "id": "triumph-1034",
+    "name": "Speed 400",
+    "brand": "Triumph",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/triumph-1034",
+    "versions": [
+      "Speed 400"
+    ],
+    "specs": {
+      "engine_type": "DOHC, xi-lanh đơn",
+      "displacement": "398",
+      "cooling_system": "Chất lỏng",
+      "tank_capacity": "13",
+      "tire_front": "110/70 R17",
+      "tire_rear": "150/60 R17"
+    }
+  },
+  {
+    "id": "triumph-1035",
+    "name": "Scrambler 400 X",
+    "brand": "Triumph",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/triumph-1035",
+    "versions": [
+      "Scrambler 400 X"
+    ],
+    "specs": {
+      "engine_type": "",
+      "displacement": "",
+      "cooling_system": "",
+      "tank_capacity": "",
+      "fuel_consumption": "",
+      "tire_front": "",
+      "tire_rear": ""
+    }
+  },
+  {
+    "id": "royal-enfield-185",
+    "name": "Scram 411 2023",
+    "brand": "Royal Enfield",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/royal-enfield-185",
+    "versions": [
+      "Graphite Blue",
+      "Graphite Red",
+      "Graphite Yellow",
+      "Blazing Black",
+      "Skyline Blue",
+      "White Flame",
+      "Silver Spirit"
+    ],
+    "specs": {
+      "displacement": "411",
+      "cooling_system": "Làm mát bằng không khí",
+      "engine_type": "Đơn xi-lanh, 4 thì, làm mát bằng không khí, SOHC, phun xăng điện tử",
+      "tank_capacity": "15",
+      "fuel_consumption": "",
+      "tire_rear": "120/90 - 17\" 64S",
+      "tire_front": "100/90 -19\" 57S"
+    }
+  },
+  {
+    "id": "royal-enfield-186",
+    "name": "Classic 350 2023",
+    "brand": "Royal Enfield",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/royal-enfield-186",
+    "versions": [
+      "Halcyon Black",
+      "Halcyon Grey",
+      "Halcyon Green",
+      "Signals Marsh Grey",
+      "Signals Desert Sand",
+      "Dark Gunmetal Grey",
+      "Dark Stealth Black",
+      "Chrome Bronze",
+      "Chrome Red"
+    ],
+    "specs": {
+      "displacement": "349",
+      "cooling_system": "Làm mát bằng không khí",
+      "engine_type": "Đơn xi-lanh, 4 thì, làm mát bằng không khí, SOHC, phun xăng điện tử",
+      "tank_capacity": "13",
+      "fuel_consumption": "",
+      "tire_rear": "120/80 - 18 - 62P",
+      "tire_front": "100/90 - 19 - 57P"
+    }
+  },
+  {
+    "id": "royal-enfield-187",
+    "name": "Meteor 2023",
+    "brand": "Royal Enfield",
+    "type": "Cruiser",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/royal-enfield-187",
+    "versions": [
+      "Fireball Red",
+      "Fireball Yellow",
+      "Stellar Red",
+      "Stellar Blue",
+      "Stellar Black",
+      "Supernova Brown",
+      "Supernova Blue"
+    ],
+    "specs": {
+      "displacement": "349",
+      "cooling_system": "Làm mát bằng không khí",
+      "engine_type": "Đơn xi-lanh, 4 thì, làm mát bằng không khí, SOHC",
+      "tank_capacity": "15",
+      "fuel_consumption": "",
+      "tire_rear": "Mâm 17 inch",
+      "tire_front": "Mâm 19 inch"
+    }
+  },
+  {
+    "id": "royal-enfield-188",
+    "name": "Interceptor 2023",
+    "brand": "Royal Enfield",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/royal-enfield-188",
+    "versions": [
+      "Canyon Red",
+      "Ventura Blue",
+      "Orange Crush",
+      "Downtown Drag",
+      "Baker Express",
+      "Super Strip",
+      "Mark 2"
+    ],
+    "specs": {
+      "displacement": "648",
+      "cooling_system": "",
+      "engine_type": "Xi-lanh đôi song song, 4 thì, cam đơn, làm mát bằng gió và dầu",
+      "tank_capacity": "13,7",
+      "fuel_consumption": "",
+      "tire_rear": "130/70-18",
+      "tire_front": "100/90-18"
+    }
+  },
+  {
+    "id": "royal-enfield-189",
+    "name": "Continental GT 2023",
+    "brand": "Royal Enfield",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/royal-enfield-189",
+    "versions": [
+      "British Racing Green",
+      "Rocker Red",
+      "Ventura Storm",
+      "Dux Deluxe",
+      "Mr Clean"
+    ],
+    "specs": {
+      "displacement": "648",
+      "cooling_system": "",
+      "engine_type": "Xi-lanh đôi song song, 4 thì, cam đơn, làm mát bằng gió và dầu",
+      "tank_capacity": "",
+      "fuel_consumption": "13,7",
+      "tire_rear": "130/70-18",
+      "tire_front": "100/90-18"
+    }
+  },
+  {
+    "id": "royal-enfield-190",
+    "name": "Himalayan 2023",
+    "brand": "Royal Enfield",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/royal-enfield-190",
+    "versions": [
+      "Gravel Grey",
+      "Mirage Silver",
+      "Lake Blue",
+      "Rock Red",
+      "Granite Black",
+      "Pine Green"
+    ],
+    "specs": {
+      "displacement": "411",
+      "cooling_system": "Làm mát bằng không khí",
+      "engine_type": "Xi-lanh đơn, 4 thì, cam đơn, làm mát bằng gió",
+      "tank_capacity": "15",
+      "fuel_consumption": "",
+      "tire_rear": "120/90 - 17",
+      "tire_front": "90/90 - 21"
+    }
+  },
+  {
+    "id": "aprilia-105",
+    "name": "SX 125 2023",
+    "brand": "Aprilia",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/aprilia-105",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "124.2",
+      "cooling_system": "Chất lỏng",
+      "engine_type": "Xi-lanh đơn, 4 thì, 4 van",
+      "tank_capacity": "7",
+      "fuel_consumption": "2,6",
+      "tire_rear": "Hợp kim nhôm, Lốp 130/70 x 17",
+      "tire_front": "Hợp kim nhôm, Lốp 100/80 x 17"
+    }
+  },
+  {
+    "id": "aprilia-106",
+    "name": "RX 125 2023",
+    "brand": "Aprilia",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/aprilia-106",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "124.2",
+      "cooling_system": "Chất lỏng",
+      "engine_type": "Xi-lanh đơn, 4 thì, 4 van",
+      "tank_capacity": "7",
+      "fuel_consumption": "2,6",
+      "tire_rear": "Hợp kim nhôm, Lốp 120/80 x 18",
+      "tire_front": "Hợp kim nhôm, Lốp 90/90 x 21"
+    }
+  },
+  {
+    "id": "aprilia-107",
+    "name": "SR GT 200 2023",
+    "brand": "Aprilia",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/aprilia-107",
+    "versions": [
+      "Tiêu chuẩn",
+      "Sport",
+      "Replica"
+    ],
+    "specs": {
+      "displacement": "174",
+      "cooling_system": "Chất lỏng",
+      "engine_type": "4 thì xi-lanh đơn",
+      "tank_capacity": "9",
+      "fuel_consumption": "2,6",
+      "tire_rear": "Lốp không săm 130/70 R13",
+      "tire_front": "Lốp không săm 110/80 R14"
+    }
+  },
+  {
+    "id": "aprilia-108",
+    "name": "Tuono 660 2023",
+    "brand": "Aprilia",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/aprilia-108",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "659",
+      "cooling_system": "Chất lỏng",
+      "engine_type": "2 Xi-lanh thẳng hàng, 4 thì, 4 van trên mỗi xi-lanh.",
+      "tank_capacity": "15",
+      "fuel_consumption": "4,9",
+      "tire_rear": "180/55 R17",
+      "tire_front": "120/70 R17"
+    }
+  },
+  {
+    "id": "aprilia-109",
+    "name": "RS 660 2023",
+    "brand": "Aprilia",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/aprilia-109",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "659",
+      "cooling_system": "",
+      "engine_type": "2 Xi-lanh thẳng hàng, 4 thì, 4 van trên mỗi xi-lanh.",
+      "tank_capacity": "15",
+      "fuel_consumption": "4,9",
+      "tire_rear": "Hợp kim nhôm, Kích thước 5,5\" x 17\", Lốp 180/55 ZR 17\", 180/60 ZR 17 (75 W)",
+      "tire_front": "Hợp kim nhôm, Kích thước 3,5\" x 17\", Lốp 120/70 ZR 17\""
+    }
+  },
+  {
+    "id": "aprilia-110",
+    "name": "RSV4 2023",
+    "brand": "Aprilia",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/aprilia-110",
+    "versions": [
+      "1100",
+      "Factory 1100"
+    ],
+    "specs": {
+      "displacement": "1.099",
+      "cooling_system": "Chất lỏng",
+      "engine_type": "4 Xi-lanh chữ V 65°, 4 thì, 4 van trên mỗi xi-lanh.",
+      "tank_capacity": "17,9",
+      "fuel_consumption": "6,9",
+      "tire_rear": "190/50 R17",
+      "tire_front": "120/70 R17"
+    }
+  },
+  {
+    "id": "aprilia-111",
+    "name": "Tuono V4 2023",
+    "brand": "Aprilia",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/aprilia-111",
+    "versions": [
+      "1100",
+      "Factory 1100"
+    ],
+    "specs": {
+      "displacement": "1.099",
+      "cooling_system": "Chất lỏng",
+      "engine_type": "4 Xi-lanh chữ V 65°, 4 thì, 4 van trên mỗi xi-lanh.",
+      "tank_capacity": "17,9",
+      "fuel_consumption": "7,2",
+      "tire_rear": "Hợp kim, Kích thước lốp 190/50 ZR 17",
+      "tire_front": "Hợp kim, Kích thước 3,5 x 17\", Lốp 120/70 ZR17 (58W)"
+    }
+  },
+  {
+    "id": "aprilia-1026",
+    "name": "Tuareg 2023",
+    "brand": "Aprilia",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/aprilia-1026",
+    "versions": [
+      "Tuareg 660"
+    ],
+    "specs": {
+      "engine_type": "Xi-lanh đôi song song, DOHC,",
+      "cooling_system": "Dung dịch",
+      "displacement": "659",
+      "tank_capacity": "18",
+      "tire_front": "90/90 R21",
+      "tire_rear": "150/70 R18"
+    }
+  },
+  {
+    "id": "ktm-169",
+    "name": "390 Adventure 2023",
+    "brand": "KTM",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ktm-169",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "373",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "Hệ thống quản lý động cơ EMS với RBW",
+      "tank_capacity": "14,5",
+      "fuel_consumption": "4.153",
+      "tire_rear": "130/80 R17",
+      "tire_front": "100/90-19"
+    }
+  },
+  {
+    "id": "ktm-170",
+    "name": "790 Adventure 2023",
+    "brand": "KTM",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ktm-170",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "799",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "Hệ thống quản lý động cơ Bosch với RBW",
+      "tank_capacity": "20",
+      "fuel_consumption": "5.143",
+      "tire_rear": "150/70 R18",
+      "tire_front": "90/90-21"
+    }
+  },
+  {
+    "id": "ktm-171",
+    "name": "790 Adventure R 2023",
+    "brand": "KTM",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ktm-171",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "799",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "Hệ thống quản lý động cơ Bosch với Ride-by-Wire",
+      "tank_capacity": "20 lít / 3 lít dự trữ",
+      "fuel_consumption": "5.656",
+      "tire_rear": "150/70 R18",
+      "tire_front": "90/90-21"
+    }
+  },
+  {
+    "id": "ktm-172",
+    "name": "1290 Super Adventure S 2023",
+    "brand": "KTM",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ktm-172",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "1.301",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "Hệ thống quản lý động cơ Keihin với RBW và kiểm soát hành trình, đánh lửa kép",
+      "tank_capacity": "23",
+      "fuel_consumption": "5,74",
+      "tire_rear": "170/60 ZR19",
+      "tire_front": "120/70 ZR19"
+    }
+  },
+  {
+    "id": "ktm-173",
+    "name": "1290 Super Adventure R 2023",
+    "brand": "KTM",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ktm-173",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "1.301",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "Hệ thống quản lý động cơ Keihin với RBW và kiểm soát hành trình, đánh lửa kép",
+      "tank_capacity": "23",
+      "fuel_consumption": "5,74",
+      "tire_rear": "170/60 ZR19",
+      "tire_front": "120/70 ZR19"
+    }
+  },
+  {
+    "id": "ktm-174",
+    "name": "200 Duke 2023",
+    "brand": "KTM",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ktm-174",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "199",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "Hệ thống quản lý động cơ Bosch",
+      "tank_capacity": "13,5",
+      "fuel_consumption": "2,86",
+      "tire_rear": "170/60 ZR19",
+      "tire_front": "120/70 ZR19"
+    }
+  },
+  {
+    "id": "ktm-175",
+    "name": "390 Duke 2023",
+    "brand": "KTM",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ktm-175",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "373",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "Hệ thống quản lý động cơ Bosch với RBW",
+      "tank_capacity": "13,4",
+      "fuel_consumption": "4.232",
+      "tire_rear": "170/60 ZR19",
+      "tire_front": "120/70 ZR19"
+    }
+  },
+  {
+    "id": "ktm-176",
+    "name": "790 Duke 2023",
+    "brand": "KTM",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ktm-176",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "373",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "Xi lanh đơn, 4 thì",
+      "tank_capacity": "13,4",
+      "fuel_consumption": "4.232",
+      "tire_rear": "150/60 R17",
+      "tire_front": "110/70 R17"
+    }
+  },
+  {
+    "id": "ktm-177",
+    "name": "890 Duke R 2023",
+    "brand": "KTM",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ktm-177",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "889",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "2 xi-lanh, 4 thì, động cơ đôi",
+      "tank_capacity": "",
+      "fuel_consumption": "5.942",
+      "tire_rear": "180/55 ZR17",
+      "tire_front": "120/70 ZR17"
+    }
+  },
+  {
+    "id": "ktm-178",
+    "name": "1290 Super Duke R 2023",
+    "brand": "KTM",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ktm-178",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "1.301",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "Xi-lanh đôi, 4 thì, V 75°",
+      "tank_capacity": "16",
+      "fuel_consumption": "5,59",
+      "tire_rear": "200/55 ZR17",
+      "tire_front": "120/70 ZR17"
+    }
+  },
+  {
+    "id": "ktm-179",
+    "name": "1290 Super Duke GT 2023",
+    "brand": "KTM",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ktm-179",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "1.301",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "Xi-lanh đôi, 4 thì, V 75°",
+      "tank_capacity": "16",
+      "fuel_consumption": "5,72",
+      "tire_rear": "190/55 ZR17",
+      "tire_front": "120/70 ZR17"
+    }
+  },
+  {
+    "id": "ktm-180",
+    "name": "1290 Super Duke R EVO 2023",
+    "brand": "KTM",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ktm-180",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "1.301",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "Xi-lanh đôi, 4 thì, V 75°",
+      "tank_capacity": "16",
+      "fuel_consumption": "5,55",
+      "tire_rear": "200/55 ZR17",
+      "tire_front": "120/70 ZR17"
+    }
+  },
+  {
+    "id": "ktm-181",
+    "name": "RC 390 NG 2023",
+    "brand": "KTM",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ktm-181",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "DOHC, xi-lanh đơn, 4 thì",
+      "tank_capacity": "13",
+      "fuel_consumption": "3,52",
+      "tire_rear": "150/60 R17 ContiRoad",
+      "tire_front": "110/70 R17 ContiRoad"
+    }
+  },
+  {
+    "id": "ktm-182",
+    "name": "690 SMC R 2023",
+    "brand": "KTM",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ktm-182",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "692,7",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "1 xi-lanh, 4 thì",
+      "tank_capacity": "",
+      "fuel_consumption": "4,12",
+      "tire_rear": "160/60 ZR17",
+      "tire_front": "120/70 ZR17"
+    }
+  },
+  {
+    "id": "ktm-183",
+    "name": "350 EXC-F Six Days 2023",
+    "brand": "KTM",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ktm-183",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "349,7",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "1 xi-lanh, 4 thì",
+      "tank_capacity": "",
+      "fuel_consumption": "3,44",
+      "tire_rear": "140/80-18",
+      "tire_front": "90/90-21"
+    }
+  },
+  {
+    "id": "ktm-184",
+    "name": "690 Enduro R 2023",
+    "brand": "KTM",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ktm-184",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "692,7",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "1 xi-lanh, 4 thì",
+      "tank_capacity": "",
+      "fuel_consumption": "",
+      "tire_rear": "",
+      "tire_front": ""
+    }
+  },
+  {
+    "id": "ktm-1030",
+    "name": "890 Adventure R 2024",
+    "brand": "KTM",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/ktm-1030",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "engine_type": "DOHC",
+      "displacement": "898",
+      "cooling_system": "Chất lỏng",
+      "tank_capacity": "20",
+      "tire_front": "90/90-21",
+      "tire_rear": "150/70-18"
+    }
+  },
+  {
+    "id": "kawasaki-73",
+    "name": "Ninja 400 2021",
+    "brand": "Kawasaki",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-73",
+    "versions": [
+      "ABS",
+      "ABS KRT Edition"
+    ],
+    "specs": {
+      "displacement": "399",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "engine_type": "Động cơ xi-lanh đôi, 4 thì DOHC",
+      "tank_capacity": "14",
+      "fuel_consumption": "4,1",
+      "tire_rear": "150/60R17 M/C 66H",
+      "tire_front": "110/70R17 M/C 54H"
+    }
+  },
+  {
+    "id": "kawasaki-74",
+    "name": "Ninja 650 2021",
+    "brand": "Kawasaki",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-74",
+    "versions": [
+      "ABS",
+      "ABS KRT Edition"
+    ],
+    "specs": {
+      "displacement": "649",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "engine_type": "Động cơ xi-lanh đôi, 4 thì DOHC",
+      "tank_capacity": "15",
+      "fuel_consumption": "4,9",
+      "tire_rear": "160/60ZR17M/C (69W)",
+      "tire_front": "120/70ZR17M/C (58W)"
+    }
+  },
+  {
+    "id": "kawasaki-75",
+    "name": "Ninja ZX-25R 2023",
+    "brand": "Kawasaki",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-75",
+    "versions": [
+      "SE",
+      "KRT"
+    ],
+    "specs": {
+      "displacement": "250",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "engine_type": "4 kỳ, 4 xi-lanh thẳng hàng",
+      "tank_capacity": "15",
+      "fuel_consumption": "6,1",
+      "tire_rear": "150/60R17M/C 66H",
+      "tire_front": "110/70R17M/C 54H"
+    }
+  },
+  {
+    "id": "kawasaki-76",
+    "name": "Ninja ZX-10R 2022",
+    "brand": "Kawasaki",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-76",
+    "versions": [
+      "ABS KRT Edition",
+      "ABS"
+    ],
+    "specs": {
+      "displacement": "998",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "engine_type": "DOHC, 4 xi-lanh thẳng hàng",
+      "tank_capacity": "17",
+      "fuel_consumption": "12",
+      "tire_rear": "190/55ZR17M/C (75W)",
+      "tire_front": "120/70ZR17M/C (58W)"
+    }
+  },
+  {
+    "id": "kawasaki-77",
+    "name": "Ninja H2 2022",
+    "brand": "Kawasaki",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-77",
+    "versions": [
+      "Carbon",
+      "R"
+    ],
+    "specs": {
+      "displacement": "998",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "engine_type": "DOHC, 4 xi-lanh thẳng hàng",
+      "tank_capacity": "17",
+      "fuel_consumption": "",
+      "tire_rear": "200/55ZR17M/C (78W)",
+      "tire_front": "120/70ZR17M/C (58W)"
+    }
+  },
+  {
+    "id": "kawasaki-78",
+    "name": "Z400 2020",
+    "brand": "Kawasaki",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-78",
+    "versions": [
+      "ABS"
+    ],
+    "specs": {
+      "displacement": "399",
+      "cooling_system": "Dung dịch",
+      "engine_type": "DOHC 4 thì xi-lanh đôi",
+      "tank_capacity": "14",
+      "fuel_consumption": "4,4",
+      "tire_rear": "150/60R17",
+      "tire_front": "110/70R17"
+    }
+  },
+  {
+    "id": "kawasaki-79",
+    "name": "Z650 ABS 2021",
+    "brand": "Kawasaki",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-79",
+    "versions": [
+      "ABS"
+    ],
+    "specs": {
+      "displacement": "649",
+      "cooling_system": "Dung dịch",
+      "engine_type": "DOHC 4 thì 2 xi-lanh",
+      "tank_capacity": "15",
+      "fuel_consumption": "4,9",
+      "tire_rear": "160/60ZR17",
+      "tire_front": "120/70ZR17"
+    }
+  },
+  {
+    "id": "kawasaki-80",
+    "name": "Z900 2025",
+    "brand": "Kawasaki",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-80",
+    "versions": [
+      "tiêu chuẩn",
+      "ABS"
+    ],
+    "specs": {
+      "cooling_system": "Làm mát bằng dung dịch",
+      "displacement": "948",
+      "engine_type": "4 xy-lanh thẳng hàng",
+      "fuel_consumption": "6,3",
+      "tank_capacity": "17",
+      "tire_rear": "180/55ZR17M/C (73W)",
+      "tire_front": "120/70ZR17M/C (58W)"
+    }
+  },
+  {
+    "id": "kawasaki-81",
+    "name": "Z1000 ABS 2023",
+    "brand": "Kawasaki",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-81",
+    "versions": [
+      "Tiêu chuẩn",
+      "R Edition"
+    ],
+    "specs": {
+      "displacement": "1.043",
+      "cooling_system": "",
+      "engine_type": "4 thì, 4 xy-lanh, DOHC, W/C",
+      "tank_capacity": "17",
+      "fuel_consumption": "5,4",
+      "tire_rear": "190 /50ZR17M /C (73W)",
+      "tire_front": "120 /70ZR17M /C (58W)"
+    }
+  },
+  {
+    "id": "kawasaki-82",
+    "name": "Z650RS 2023",
+    "brand": "Kawasaki",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-82",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "649",
+      "cooling_system": "",
+      "engine_type": "4 thì, 2 xy-lanh",
+      "tank_capacity": "12",
+      "fuel_consumption": "Đang cập nhật",
+      "tire_rear": "120/70ZR17M/C (58W)",
+      "tire_front": "120/70ZR17M/C (58W)"
+    }
+  },
+  {
+    "id": "kawasaki-83",
+    "name": "Z900RS 2020",
+    "brand": "Kawasaki",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-83",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "948",
+      "cooling_system": "",
+      "engine_type": "Động cơ 4 thì, 4 xi-lanh thẳng hàng",
+      "tank_capacity": "17",
+      "fuel_consumption": "6,6",
+      "tire_rear": "180/55-ZR17M/C (73W)",
+      "tire_front": "120/70-ZR17M/C (58W)"
+    }
+  },
+  {
+    "id": "kawasaki-84",
+    "name": "Z H2 2022",
+    "brand": "Kawasaki",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-84",
+    "versions": [
+      "SE"
+    ],
+    "specs": {
+      "displacement": "998",
+      "cooling_system": "",
+      "engine_type": "4 xi-lanh thẳng hàng, làm mát bằng dung dịch",
+      "tank_capacity": "19",
+      "fuel_consumption": "7,6",
+      "tire_rear": "190/55ZR17M/C (75W)",
+      "tire_front": "120/70ZR17M/C (58W)"
+    }
+  },
+  {
+    "id": "kawasaki-85",
+    "name": "W175 2023",
+    "brand": "Kawasaki",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-85",
+    "versions": [
+      "SE"
+    ],
+    "specs": {
+      "displacement": "177",
+      "cooling_system": "Bằng không khí",
+      "engine_type": "Động cơ xi-lanh đơn, làm mát bằng không khí",
+      "tank_capacity": "",
+      "fuel_consumption": "2,3",
+      "tire_rear": "100/90-17M/C 55P",
+      "tire_front": "80/100-17M/C 46P"
+    }
+  },
+  {
+    "id": "kawasaki-86",
+    "name": "Vulcan S 2022",
+    "brand": "Kawasaki",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-86",
+    "versions": [
+      "Tiêu chuẩn",
+      "ABS"
+    ],
+    "specs": {
+      "displacement": "649",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "engine_type": "Động cơ xi-lanh đôi, 4 thì DOHC, làm mát bằng dung dịch",
+      "tank_capacity": "14",
+      "fuel_consumption": "5,5",
+      "tire_rear": "160/60R17M/C 69H",
+      "tire_front": "120/70R18M/C 59H"
+    }
+  },
+  {
+    "id": "kawasaki-87",
+    "name": "Versys-X 300 ABS 2021",
+    "brand": "Kawasaki",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-87",
+    "versions": [
+      "City",
+      "Tourer"
+    ],
+    "specs": {
+      "displacement": "296",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "engine_type": "4 thì, 2 xy-lanh, DOHC, 8 van, làm mát bằng dung dịch",
+      "tank_capacity": "17",
+      "fuel_consumption": "3",
+      "tire_rear": "130/80-17M/C 65S",
+      "tire_front": "100/90-19M/C 57S"
+    }
+  },
+  {
+    "id": "kawasaki-88",
+    "name": "Versys 650 2023",
+    "brand": "Kawasaki",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-88",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "649",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "engine_type": "Động cơ xi-lanh đôi, 4 thì DOHC, làm mát bằng dung dịch",
+      "tank_capacity": "21",
+      "fuel_consumption": "",
+      "tire_rear": "160/60ZR17M/C (69W)",
+      "tire_front": "120/70ZR17M/C (58W)"
+    }
+  },
+  {
+    "id": "kawasaki-89",
+    "name": "KLX230S 2023",
+    "brand": "Kawasaki",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-89",
+    "versions": [
+      "Dual Purpose"
+    ],
+    "specs": {
+      "displacement": "233",
+      "cooling_system": "Bằng không khí",
+      "engine_type": "Động cơ xi-lanh đơn, làm mát bằng không khí",
+      "tank_capacity": "7,5",
+      "fuel_consumption": "",
+      "tire_rear": "4,10-18 59P",
+      "tire_front": "2,75-21 45P"
+    }
+  },
+  {
+    "id": "kawasaki-90",
+    "name": "KLX230SM 2023",
+    "brand": "Kawasaki",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-90",
+    "versions": [
+      "Super Moto"
+    ],
+    "specs": {
+      "displacement": "233",
+      "cooling_system": "Bằng không khí",
+      "engine_type": "Động cơ xi-lanh đơn, làm mát bằng không khí",
+      "tank_capacity": "7,5",
+      "fuel_consumption": "",
+      "tire_rear": "120/70-17M/C 58P",
+      "tire_front": "110/70-17M/C 54P"
+    }
+  },
+  {
+    "id": "kawasaki-91",
+    "name": "KLX230R 2023",
+    "brand": "Kawasaki",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-91",
+    "versions": [
+      "Off-Road"
+    ],
+    "specs": {
+      "displacement": "233",
+      "cooling_system": "Bằng không khí",
+      "engine_type": "Động cơ xi-lanh đơn, làm mát bằng không khí",
+      "tank_capacity": "7,5",
+      "fuel_consumption": "",
+      "tire_rear": "4,10-18 59P",
+      "tire_front": "2,75-21 45P"
+    }
+  },
+  {
+    "id": "kawasaki-1019",
+    "name": "W800 2023",
+    "brand": "Kawasaki",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-1019",
+    "versions": [
+      "W800 2023"
+    ],
+    "specs": {
+      "engine_type": "SOHC 4 thì 8 van V-Twin",
+      "displacement": "773",
+      "cooling_system": "Không khí",
+      "tank_capacity": "15",
+      "fuel_consumption": "5,4",
+      "tire_front": "100/90-19",
+      "tire_rear": "130/80-18"
+    }
+  },
+  {
+    "id": "kawasaki-1036",
+    "name": "Ninja 500 2024",
+    "brand": "Kawasaki",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-1036",
+    "versions": [
+      "SE"
+    ],
+    "specs": {
+      "cooling_system": "Dung dịch",
+      "displacement": "451",
+      "engine_type": "DOHC 4 thì xi-lanh đôi",
+      "tank_capacity": "14",
+      "tire_rear": "150/60R17",
+      "tire_front": "110/70R17"
+    }
+  },
+  {
+    "id": "kawasaki-1037",
+    "name": "Ninja ZX-4R 2024",
+    "brand": "Kawasaki",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-1037",
+    "versions": [
+      "Ninja ZX-4R ABS"
+    ],
+    "specs": {
+      "engine_type": "4 xi-lanh",
+      "displacement": "399",
+      "cooling_system": "chất lỏng",
+      "tank_capacity": "15",
+      "tire_front": "120/70-R17",
+      "tire_rear": "160/60-R17"
+    }
+  },
+  {
+    "id": "kawasaki-1042",
+    "name": "Z500 2024",
+    "brand": "Kawasaki",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-1042",
+    "versions": [
+      "2024"
+    ],
+    "specs": {
+      "engine_type": "DOHC 2 xi-lanh",
+      "displacement": "",
+      "cooling_system": "",
+      "tank_capacity": "",
+      "fuel_consumption": "",
+      "tire_front": "",
+      "tire_rear": ""
+    }
+  },
+  {
+    "id": "kawasaki-1045",
+    "name": "Eliminator 500",
+    "brand": "Kawasaki",
+    "type": "Cruiser",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/kawasaki-1045",
+    "versions": [
+      "Eliminator 500"
+    ],
+    "specs": {
+      "engine_type": "Xi-lanh đôi",
+      "displacement": "451",
+      "cooling_system": "",
+      "tank_capacity": "",
+      "fuel_consumption": "",
+      "tire_front": "",
+      "tire_rear": ""
+    }
+  },
+  {
+    "id": "vespa-69",
+    "name": "GTS Super 2023",
+    "brand": "Vespa",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/vespa-69",
+    "versions": [
+      "125",
+      "Sport 150",
+      "Special Edition 150",
+      "Sport 300",
+      "Tech 300",
+      "75th 300"
+    ],
+    "specs": {
+      "displacement": "124,7",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "engine_type": "Xi-lanh đơn 4 kì, 4 van",
+      "tank_capacity": "7",
+      "fuel_consumption": "2,62",
+      "tire_rear": "Lốp không săm 130/70 - 12\"",
+      "tire_front": "Lốp không săm 120/70 - 12\""
+    }
+  },
+  {
+    "id": "vespa-70",
+    "name": "Primavera 2023",
+    "brand": "Vespa",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [
+      "air_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/vespa-70",
+    "versions": [
+      "125",
+      "S 125",
+      "RED 125",
+      "Color Vibe 125",
+      "75th 125"
+    ],
+    "specs": {
+      "engine_type": "I-Get, xi-lanh đơn, 4 kỳ, 3 van",
+      "displacement": "124,5",
+      "cooling_system": "Làm mát bằng gió cưỡng bức",
+      "tank_capacity": "8",
+      "fuel_consumption": "2,4",
+      "tire_front": "Lốp không xăm 110/70 - 12 inch",
+      "tire_rear": "Lốp không xăm 120/70 - 12 inch"
+    }
+  },
+  {
+    "id": "vespa-71",
+    "name": "Sprint 2023",
+    "brand": "Vespa",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [
+      "air_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/vespa-71",
+    "versions": [
+      "125",
+      "S 125",
+      "S 150",
+      "S with TFT 125",
+      "Tech 125",
+      "S with TFT 150",
+      "Justin Bieber x Vespa 125",
+      "Tech 150",
+      "Justin Bieber x Vespa 150"
+    ],
+    "specs": {
+      "engine_type": "Xi-lanh đơn, 4 kì, 3 van",
+      "displacement": "124,5",
+      "cooling_system": "Làm mát bằng gió cưỡng bức",
+      "tank_capacity": "8",
+      "fuel_consumption": "2,4",
+      "tire_front": "Lốp không xăm 110/70 - 12 inch",
+      "tire_rear": "Lốp không xăm 120/70 - 12 inch"
+    }
+  },
+  {
+    "id": "vespa-72",
+    "name": "Sei Giorni 2023",
+    "brand": "Vespa",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/vespa-72",
+    "versions": [
+      "300"
+    ],
+    "specs": {
+      "displacement": "278,3",
+      "cooling_system": "Làm mát bằng dung dịch",
+      "engine_type": "HPE, 4 kì, 4 van",
+      "tank_capacity": "8",
+      "fuel_consumption": "3,24",
+      "tire_rear": "Lốp không xăm 130/70 - 12\"",
+      "tire_front": "Lốp không xăm 120/70 - 12\""
+    }
+  },
+  {
+    "id": "vespa-1020",
+    "name": "GTV 2023",
+    "brand": "Vespa",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/vespa-1020",
+    "versions": [
+      "GTV 300 HPE"
+    ],
+    "specs": {
+      "engine_type": "Động cơ HPE xi-lanh đơn, 4 thì 4 van",
+      "displacement": "278,3",
+      "cooling_system": "Chất lỏng",
+      "tank_capacity": "8,5",
+      "fuel_consumption": "3,48",
+      "tire_front": "Lốp không săm 120/70R12",
+      "tire_rear": "Lốp không săm 130/70R12"
+    }
+  },
+  {
+    "id": "vespa-1049",
+    "name": "946 2025",
+    "brand": "Vespa",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/vespa-1049",
+    "versions": [
+      "Snake"
+    ],
+    "specs": {
+      "engine_type": "Xi lanh đơn, 4 thì, 3 van, phun xăng điện tử",
+      "displacement": "155",
+      "cooling_system": "Không khí",
+      "tank_capacity": "8",
+      "tire_front": "Không săm 120/70 R12",
+      "tire_rear": "Không săm 130/70 R12"
+    }
+  },
+  {
+    "id": "bmw-motorrad-112",
+    "name": "M 1000 RR 2023",
+    "brand": "BMW Motorrad",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/bmw-motorrad-112",
+    "versions": [
+      "Base"
+    ],
+    "specs": {
+      "displacement": "999",
+      "cooling_system": "Dung dịch",
+      "engine_type": "4 thì 4 xi-lanh thẳng hàng",
+      "tank_capacity": "16,5",
+      "fuel_consumption": "8.348",
+      "tire_rear": "200/55 ZR 17",
+      "tire_front": "120/70 ZR 17"
+    }
+  },
+  {
+    "id": "bmw-motorrad-113",
+    "name": "S 1000 RR 2023",
+    "brand": "BMW Motorrad",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/bmw-motorrad-113",
+    "versions": [
+      "Race"
+    ],
+    "specs": {
+      "displacement": "999",
+      "cooling_system": "Dung dịch",
+      "engine_type": "4 thì 4 xi-lanh thẳng hàng",
+      "tank_capacity": "16,5",
+      "fuel_consumption": "7.209",
+      "tire_rear": "190/55 ZR 17",
+      "tire_front": "120/70 ZR 17"
+    }
+  },
+  {
+    "id": "bmw-motorrad-114",
+    "name": "K 1600 B 2023",
+    "brand": "BMW Motorrad",
+    "type": "Cruiser",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/bmw-motorrad-114",
+    "versions": [
+      "Grand America"
+    ],
+    "specs": {
+      "displacement": "1.649",
+      "cooling_system": "Dung dịch, nước",
+      "engine_type": "6 xi-lanh, 4 thì",
+      "tank_capacity": "26,5",
+      "fuel_consumption": "6.558",
+      "tire_rear": "190/55 R 17",
+      "tire_front": "120/70 R 17"
+    }
+  },
+  {
+    "id": "bmw-motorrad-115",
+    "name": "R 1250 RT 2023",
+    "brand": "BMW Motorrad",
+    "type": "Cruiser",
+    "template_id": "under_350cc",
+    "tags": [
+      "air_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/bmw-motorrad-115",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "1.254",
+      "cooling_system": "Làm mát bằng gió và dầu",
+      "engine_type": "Động cơ Boxer",
+      "tank_capacity": "25",
+      "fuel_consumption": "4,75",
+      "tire_rear": "180/55R16",
+      "tire_front": "120/70R17"
+    }
+  },
+  {
+    "id": "bmw-motorrad-116",
+    "name": "S 1000 R 2023",
+    "brand": "BMW Motorrad",
+    "type": "Sportbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/bmw-motorrad-116",
+    "versions": [
+      "Racing Red",
+      "Hockenheim",
+      "M"
+    ],
+    "specs": {
+      "displacement": "999",
+      "cooling_system": "Dung dịch",
+      "engine_type": "4 thì 4 xi-lanh thẳng hàng",
+      "tank_capacity": "16,5",
+      "fuel_consumption": "7.209",
+      "tire_rear": "190/55 ZR 17",
+      "tire_front": "120/70 ZR 17"
+    }
+  },
+  {
+    "id": "bmw-motorrad-117",
+    "name": "F 900 R 2023",
+    "brand": "BMW Motorrad",
+    "type": "Nakedbike",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/bmw-motorrad-117",
+    "versions": [
+      "Base"
+    ],
+    "specs": {
+      "displacement": "895",
+      "cooling_system": "Dung dịch",
+      "engine_type": "4 thì 2 xi lanh song song",
+      "tank_capacity": "13",
+      "fuel_consumption": "5.407",
+      "tire_rear": "170/60 ZR 17",
+      "tire_front": "120/70 ZR 17"
+    }
+  },
+  {
+    "id": "bmw-motorrad-118",
+    "name": "R 18 2023",
+    "brand": "BMW Motorrad",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [
+      "air_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/bmw-motorrad-118",
+    "versions": [
+      "Tiêu chuẩn",
+      "Classic First Edition",
+      "B",
+      "Transcontinental"
+    ],
+    "specs": {
+      "displacement": "1.802",
+      "cooling_system": "Làm mát bằng gió và dầu",
+      "engine_type": "Động cơ Boxer",
+      "tank_capacity": "16",
+      "fuel_consumption": "6,2",
+      "tire_rear": "180/65B16",
+      "tire_front": "120/70R19"
+    }
+  },
+  {
+    "id": "bmw-motorrad-119",
+    "name": "R nineT 2023",
+    "brand": "BMW Motorrad",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [
+      "air_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/bmw-motorrad-119",
+    "versions": [
+      "Scrambler",
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "engine_type": "Động cơ Boxer",
+      "cooling_system": "Làm mát bằng gió và dầu",
+      "displacement": "1.170",
+      "fuel_consumption": "5,1",
+      "tank_capacity": "17",
+      "tire_front": "120/70R19",
+      "tire_rear": "170/60R17"
+    }
+  },
+  {
+    "id": "bmw-motorrad-120",
+    "name": "R 1250 GS 2023",
+    "brand": "BMW Motorrad",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "air_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/bmw-motorrad-120",
+    "versions": [
+      "Tiêu chuẩn",
+      "Triple Black"
+    ],
+    "specs": {
+      "cooling_system": "Làm mát bằng gió và dầu",
+      "displacement": "1.254",
+      "engine_type": "Động cơ Boxer",
+      "fuel_consumption": "6,2",
+      "tank_capacity": "20",
+      "tire_rear": "170/60R17",
+      "tire_front": "120/70R19"
+    }
+  },
+  {
+    "id": "bmw-motorrad-121",
+    "name": "F 900 XR 2023",
+    "brand": "BMW Motorrad",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/bmw-motorrad-121",
+    "versions": [
+      "Base"
+    ],
+    "specs": {
+      "displacement": "895",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "Động cơ 2 xi lanh song song",
+      "tank_capacity": "15,5",
+      "fuel_consumption": "5,3",
+      "tire_rear": "180/55ZR17",
+      "tire_front": "120/70ZR17"
+    }
+  },
+  {
+    "id": "bmw-motorrad-122",
+    "name": "F 850 GS 2023",
+    "brand": "BMW Motorrad",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/bmw-motorrad-122",
+    "versions": [
+      "Base"
+    ],
+    "specs": {
+      "displacement": "853",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "Động cơ 2 xi lanh song song",
+      "tank_capacity": "15",
+      "fuel_consumption": "4,7",
+      "tire_rear": "150/70R17",
+      "tire_front": "90/90R21"
+    }
+  },
+  {
+    "id": "bmw-motorrad-123",
+    "name": "C 400 GT 2023",
+    "brand": "BMW Motorrad",
+    "type": "Xe ga",
+    "template_id": "under_350cc",
+    "tags": [
+      "liquid_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/bmw-motorrad-123",
+    "versions": [
+      "Base"
+    ],
+    "specs": {
+      "displacement": "350",
+      "cooling_system": "Làm mát bằng chất lỏng",
+      "engine_type": "Động cơ xi lanh đơn",
+      "tank_capacity": "12,8",
+      "fuel_consumption": "3,5",
+      "tire_rear": "150/70R17",
+      "tire_front": "90/90R21"
+    }
+  },
+  {
+    "id": "bmw-motorrad-1016",
+    "name": "R 1250 GS Adventure 2023",
+    "brand": "BMW Motorrad",
+    "type": "Adventure",
+    "template_id": "under_350cc",
+    "tags": [
+      "air_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/bmw-motorrad-1016",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "displacement": "1.254",
+      "cooling_system": "Làm mát bằng gió và dầu",
+      "engine_type": "Động cơ Boxer",
+      "tank_capacity": "30",
+      "fuel_consumption": "6,1",
+      "tire_rear": "170/60R17",
+      "tire_front": "120/70R19"
+    }
+  },
+  {
+    "id": "bmw-motorrad-1051",
+    "name": "R 12 nineT 2025",
+    "brand": "BMW Motorrad",
+    "type": "Classic",
+    "template_id": "under_350cc",
+    "tags": [
+      "air_cooled"
+    ],
+    "detail_url": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/bmw-motorrad-1051",
+    "versions": [
+      "Tiêu chuẩn"
+    ],
+    "specs": {
+      "engine_type": "Động cơ Boxer 2 xi-lanh",
+      "displacement": "1.170",
+      "cooling_system": "Làm mát bằng gió và dầu",
+      "fuel_consumption": "5,1",
+      "tank_capacity": "16",
+      "tire_front": "120/70 ZR17",
+      "tire_rear": "180/55 ZR17"
+    }
+  }
+]
