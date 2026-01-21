@@ -1,50 +1,42 @@
-# Welcome to your Expo app 👋
+# 🛵 MotoCare - Trợ lý quản lý bảo dưỡng xe máy cá nhân
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**MotoCare** là ứng dụng di động đa nền tảng giúp người dùng cá nhân số hóa quy trình chăm sóc xe gắn máy. Từ việc ghi chép nhật ký sửa chữa, theo dõi chi phí đến nhắc nhở bảo dưỡng định kỳ dựa trên ODO thực tế.
 
-## Get started
+---
 
-1. Install dependencies
+## 🌟 Tính năng nổi bật
 
-   ```bash
-   npm install
-   ```
+* **🚀 Onboarding thông minh:** Quy trình thêm xe 3 bước với dữ liệu gợi ý từ hàng trăm dòng xe phổ biến (Honda, Yamaha, VinFast...).
+* **📝 Nhật ký điện tử:** Ghi lại lịch sử sửa chữa, thay thế phụ tùng, chi phí và địa điểm.
+* **⏰ Nhắc nhở tự động:** Tính toán lịch bảo dưỡng dựa trên ODO thực tế hoặc thời gian sử dụng (Ví dụ: Thay dầu mỗi 2000km).
+* **📊 Thống kê trực quan:** Biểu đồ phân tích chi phí "nuôi" xe theo tháng/năm.
+* **💰 Tra cứu giá:** Tham khảo giá sửa chữa các dòng xe hiện có trên thị trường.
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🛠️ Công nghệ sử dụng
 
-In the output, you'll find options to open the app in a
+Dự án áp dụng kiến trúc **Clean Architecture** và các công nghệ hiện đại nhất trong hệ sinh thái React Native:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### Mobile App (Client)
+* **Framework:** React Native (Expo SDK 50).
+* **Language:** TypeScript.
+* **Routing:** Expo Router (File-based routing).
+* **State Management:**
+    * Server State: TanStack Query (React Query).
+    * Client State: React Context API.
+* **Styling:** NativeWind (TailwindCSS).
+* **UX:** KeyboardSafeView, Global Modal System.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### Backend & Database
+* **Platform:** Supabase (BaaS).
+* **Database:** PostgreSQL.
+* **Auth:** Supabase Auth (Email/Password, Social).
+* **Security:** Row Level Security (RLS).
 
-## Get a fresh project
+### Data Engineering (Automation)
+* **Language:** Python 3.
+* **Libraries:** BeautifulSoup4, Requests.
+* **Role:** Crawl dữ liệu xe từ web -> Làm sạch & Gán nhãn -> Đồng bộ vào Database.
 
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
